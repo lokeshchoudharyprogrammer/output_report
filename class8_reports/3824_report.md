@@ -1,423 +1,306 @@
+```md
 Pronunciation Report
-Bucket: Transitional
-Mispronounced Words: 18
-- Gadget: Pronounced as "Garbaje"
-- Combines: Pronounced as "Combenates"
-- Essential: Pronounced as "Easliy"
-- Integrated: Pronounced as "Interject"
-- Mobility: Pronounced as "Mobeletic"
-- Roles: Pronounced as "Role"
-- Features: Pronounced as "Featuers"
-- Internet: Pronounced as "Enter"
-- Connectivity: Pronounced as "Conversition"
-- Icons: Pronounced as "Icon"
-- Widely: Pronounced as "Widely"
-- Purchased: Pronounced as "Pushed"
-- Variety: Pronounced as "Variaty"
-- Rates: Pronounced as "Rates"
-- Depending: Pronounced as "Depend"
-- Brands: Pronounced as "Birds"
-- Breeds: Pronounced as "Breeds"
-- Functions: Pronounced as "Functions"
-- Features: Pronounced as "Featuers"
-- Faster: Pronounced as "Faster"
-- Connection: Pronounced as "Conversition"
-- Models: Pronounced as "Modals"
-- Harmed: Pronounced as "Armed"
-- Distance: Pronounced as "Stance"
-- Different: Pronounced as "Different"
-- Time Zones: Pronounced as "Time Zone"
-- Regular: Pronounced as "Regulate"
-- Special: Pronounced as "Special"
-- Capabilities: Pronounced as "Calories"
-- Includes: Pronounced as "Include"
-- Icon: Pronounced as "Icon"
-- Games: Pronounced as "Games"
-- Cells: Pronounced as "Cells"
-- Chats: Pronounced as "Charts"
-- Touchscreen: Pronounced as "Touchscreen"
-- Storage: Pronounced as "Storage"
-- Joystick: Pronounced as "Joystick"
-- Wireless: Pronounced as "Wireless"
-- Earbuds: Pronounced as "Earbuds"
-- Host: Pronounced as "Host"
-- Enhance: Pronounced as "Iconly"
-- Smartphone: Pronounced as "Smartphones"
-- Experience: Pronounced as "Experience"
-- Revolution: Pronounced as "Rotation"
-- World: Pronounced as "World"
-- Connected: Pronounced as "Connected"
-- Benefits: Pronounced as "Differents"
-- Includes: Pronounced as "Including"
-- Simple: Pronounced as "Simply"
-- Communication: Pronounced as "Communication"
-- Portability: Pronounced as "Probability"
-- Entertainment: Pronounced as "Entertainment"
-- Capacity: Pronounced as "Capacity"
-- Hotels: Pronounced as "Hotels"
-- Flights: Pronounced as "Flights"
-- Travel Related: Pronounced as "Travel Released"
-- Events: Pronounced as "Events"
-- Ability: Pronounced as "Available"
-- Tests: Pronounced as "Test"
-- Attend: Pronounced as "Attend"
-- Classes: Pronounced as "Classes"
-- However: Pronounced as "However"
-- Drawbacks: Pronounced as "Black Breaks"
-- Which: Pronounced as "Which"
-- Such as: Pronounced as "Such As"
-- Impaired: Pronounced as "Impressed"
-- Vision: Pronounced as "Vision"
-- Direction: Pronounced as "Direction"
-- Focuses: Pronounced as "Focuses"
-- Increased: Pronounced as "Increase"
-- Distractions: Pronounced as "Distraction"
-- Addiction: Pronounced as "Addition"
-- Misuse: Pronounced as "Musical"
-- Resources: Pronounced as "Resources"
-- Smartphone: Pronounced as "Smartphone"
-- Responsibly: Pronounced as "Responsibly"
-- Prevent: Pronounced as "Prevent"
-- Unfavorable: Pronounced as "Unavailable"
-- Outcomes: Pronounced as "Outcomes"
-- Benefit: Pronounced as "Benefit"
-- Might: Pronounced as "Might"
-- Liability: Pronounced as "Liability"
-- Properly: Pronounced as "Properly" 
+Bucket: Emergent
+Mispronounced Words: 45
+Gadget: Pronounced as "Garbage"
+Combines: Pronounced as "Combined"
+Essential: Pronounced as "Easily"
+Functions: Pronounced as "Function"
+Integrated: Pronounced as "Interject"
+System: Pronounced as "System"
+Mobility: Pronounced as "Mobilatic"
+Plays: Pronounced as "Player"
+Key: Pronounced as "Key"
+Role: Pronounced as "Rule"
+Features: Pronounced as "Future"
+Internet: Pronounced as "Inter"
+Connectivity: Pronounced as "Conversation"
+Icons: Pronounced as "Icon"
+Etcetera: Pronounced as "Excetera"
+Smartphones: Pronounced as "Smartphone"
+Widely: Pronounced as "Widely"
+Purchased: Pronounced as "Pushed"
+Variety: Pronounced as "Variety"
+Rates: Pronounced as "Rates"
+Depending: Pronounced as "Depending"
+Brands: Pronounced as "Birds"
+Features: Pronounced as "Futures"
+Faster: Pronounced as "Fastest"
+Connectivity: Pronounced as "Conversation"
+Than: Pronounced as "That"
+Models: Pronounced as "Models"
+Process: Pronounced as "Process"
+Hampered: Pronounced as "Harmed"
+Distance: Pronounced as "Distant"
+Different: Pronounced as "Different"
+Time Zones: Pronounced as "Time Zone"
+Differs: Pronounced as "Different"
+Regular: Pronounced as "Regulated"
+Special: Pronounced as "Special"
+Capabilities: Pronounced as "Calibration"
+Include: Pronounced as "Include"
+New: Pronounced as "New"
+Icon: Pronounced as "Icon"
+Games: Pronounced as "Games"
+Calls: Pronounced as "Cells"
+Chats: Pronounced as "Chats"
+Video Calls: Pronounced as "Video Call"
+Camera: Pronounced as "Camera"
+Touchscreens: Pronounced as "Touchscreen"
+Emailing: Pronounced as "Emblem"
+Storage: Pronounced as "Storage"
+Etcetera: Pronounced as "Excetera"
+Joystick: Pronounced as "Joystick"
+Wireless: Pronounced as "Wireless"
+Earbuds: Pronounced as "Earbuds"
+Host: Pronounced as "Host"
+Attachments: Pronounced as "Attachment"
+Enhance: Pronounced as "Icon"
+Smartphone: Pronounced as "Smart Phone"
+Experience: Pronounced as "Experience"
+Experience: Pronounced as "Experience"
+Revolution: Pronounced as "Revolution"
+Would: Pronounced as "Would"
+Keep: Pronounced as "Be"
+Everyone: Pronounced as "Everyone"
+Connected: Pronounced as "Connected"
+Benefits: Pronounced as "Difference"
+Smartphone: Pronounced as "Smart Phone"
+Includes: Pronounced as "Including"
+Simple: Pronounced as "Simply"
+Communication: Pronounced as "Communication"
+Portability: Pronounced as "Probability"
+Entertainment: Pronounced as "Entertainment"
+Capacity: Pronounced as "Captaincy"
+Book: Pronounced as "Book"
+Hotels: Pronounced as "Hostels"
+Flights: Pronounced as "Fight"
+Other: Pronounced as "Other"
+Travel: Pronounced as "Travel"
+Related: Pronounced as "Release"
+Events: Pronounced as "Events"
+Well: Pronounced as "Well"
+Ability: Pronounced as "Available"
+Take: Pronounced as "Test"
+Tests: Pronounced as "Test"
+Attend: Pronounced as "Attend"
+Classes: Pronounced as "Classes"
+However: Pronounced as "However"
+Drawbacks: Pronounced as "Black Brakes"
+As: Pronounced as "As"
+Which: Pronounced as "Which"
+Such: Pronounced as "Such"
+Impaired: Pronounced as "Impressive"
+Vision: Pronounced as "Version"
+Decreased: Pronounced as "Direction"
+Focus: Pronounced as "Focus"
+Increased: Pronounced as "Increase"
+Distraction: Pronounced as "Direction"
+Addiction: Pronounced as "Addition"
+Misuse: Pronounced as "Musical"
+Like: Pronounced as "Like"
+Any: Pronounced as "Any"
+Resource: Pronounced as "Resources"
+Smartphone: Pronounced as "Smart Phone"
+Should: Pronounced as "Should"
+Also: Pronounced as "Also"
+Used: Pronounced as "Used"
+Responsibly: Pronounced as "Responsibly"
+Prevent: Pronounced as "Prevent"
+Unfavorable: Pronounced as "Unavailable"
+Outcomes: Pronounced as "Out Comes"
+Benefit: Pronounced as "Benefit"
+Might: Pronounced as "Might"
+Liability: Pronounced as "Labor"
+Liability: Pronounced as "Liability"
+If: Pronounced as "If"
+Not: Pronounced as "Not"
+Used: Pronounced as "Is a"
+Properly: Pronounced as "Properly"
+``````markdown
 Chunking Report
 Bucket: Emergent
 Chunking Mistakes and Corrections
-1. "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role." - Student: "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role."
-2. "It's features includes speed, internet access, computer connectivity, icons, etc." - Student: "It's features includes speed, internet access, computer connectivity, icons, etc."
-3. "Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features." - Student: "Smartphones are widely used to the can be purchased at the variety of rates of the depending on the birds breeds and the functions futures are Smartphones."
-4. "Smartphones have faster connectivity than other phone models." - Student: "Smartphones having the faster conversation that other phones models."
-5. "The process is not hampered by the distance or the different time zones." - Student: "The process in the other harmed by the distance or the different time zones."
-6. "A smartphone differs from regular phones because of its special capabilities, which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etc." - Student: "A smartphone different types of the regulate of phones used of the it's a special calibreity which include new icon games sells chats video calls cameras touch touch screens and billions storage etc."
-7. "It includes a joystick, wireless earbuds and a host of other attachments that enhance the smartphone experience." - Student: "It is including a joystick wireless ear buds ear buds and other host of each other attachment that is iconly that smartphone experience experience that it is a revolution of the world."
-8. "It is a revolution for the world that would keep everyone connected." - Student: "That would be keep everyone everyone."
-9. "Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights and other travel-related events as well as the ability to take tests and attend classes." - Student: "Some of the different of the smartphone including simply cognitive property entertainment and the caption C captain to be care for hostel of the fight and other travel release events as well of the available to tests."
-10. "However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction and misuse." - Student: "Test and the attend classes however there are some black bricks as which such as impress of various of the direction of fusses increase the direction addition and misuse."
-11. "Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes." - Student: "Like any other resources a smartphone should be also used to responsibility to prevent the un- un- favourablebility out of outcomes any."
-12. "Any benefit might become a liability if not used properly." - Student: " Any ratify might become a liability if not is a property."
 
-The student demonstrates significant chunking errors, exceeding 60% of the total sentences. 
-## Intonation Report
-Bucket: **Emergent**
+1. "A smartphone is a gadget that combines the essential functions of a phone and as that that is a integrated computer system with mobility playing a key role." 
+Correct: "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role." 
 
-**Deviations from Expert's Intonation:**
+2. "It's features includes speed internet access computer connectivity icons etc. Smartphones are widely used to the can be purchased at the variety of rates of the depending on the birds breeds and the functions features." 
+Correct: "It's features include speed, internet access, computer connectivity, icons etc. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features."
 
-* **00:02 - 00:03:** Student uses a rising tone on "combine" instead of a falling tone like the expert.
-* **00:04 - 00:05:** Student uses a rising tone on "functions" instead of a falling tone like the expert.
-* **00:05 - 00:06:** Student uses a rising tone on "phone" instead of a falling tone like the expert.
-* **00:08 - 00:09:** Student uses a rising tone on "integrated" instead of a falling tone like the expert.
-* **00:12 - 00:13:** Student uses a rising tone on "system" instead of a falling tone like the expert.
-* **00:15 - 00:16:** Student uses a rising tone on "mobility" instead of a falling tone like the expert.
-* **00:19 - 00:20:** Student uses a rising tone on "role" instead of a falling tone like the expert.
-* **00:23 - 00:24:** Student uses a rising tone on "includes" instead of a falling tone like the expert.
-* **00:27 - 00:28:** Student uses a rising tone on "speed" instead of a falling tone like the expert.
-* **00:30 - 00:31:** Student uses a rising tone on "internet" instead of a falling tone like the expert.
-* **00:33 - 00:34:** Student uses a rising tone on "access" instead of a falling tone like the expert.
-* **00:36 - 00:37:** Student uses a rising tone on "computer" instead of a falling tone like the expert.
-* **00:39 - 00:40:** Student uses a rising tone on "connectivity" instead of a falling tone like the expert.
-* **00:41 - 00:42:** Student uses a rising tone on "icons" instead of a falling tone like the expert.
-* **00:44 - 00:45:** Student uses a rising tone on "etc" instead of a falling tone like the expert.
-* **00:46 - 00:47:** Student uses a rising tone on "smartphones" instead of a falling tone like the expert.
-* **00:48 - 00:49:** Student uses a rising tone on "widely" instead of a falling tone like the expert.
-* **00:51 - 00:52:** Student uses a rising tone on "used" instead of a falling tone like the expert.
-* **00:54 - 00:55:** Student uses a rising tone on "be" instead of a falling tone like the expert.
-* **00:57 - 00:58:** Student uses a rising tone on "purchased" instead of a falling tone like the expert.
-* **01:00 - 01:01:** Student uses a rising tone on "variety" instead of a falling tone like the expert.
-* **01:03 - 01:04:** Student uses a rising tone on "rates" instead of a falling tone like the expert.
-* **01:06 - 01:07:** Student uses a rising tone on "depending" instead of a falling tone like the expert.
-* **01:08 - 01:09:** Student uses a rising tone on "brands" instead of a falling tone like the expert.
-* **01:11 - 01:12:** Student uses a rising tone on "features" instead of a falling tone like the expert.
-* **01:14 - 01:15:** Student uses a rising tone on "smartphones" instead of a falling tone like the expert.
-* **01:16 - 01:17:** Student uses a rising tone on "faster" instead of a falling tone like the expert.
-* **01:18 - 01:19:** Student uses a rising tone on "connectivity" instead of a falling tone like the expert.
-* **01:20 - 01:21:** Student uses a rising tone on "than" instead of a falling tone like the expert.
-* **01:22 - 01:23:** Student uses a rising tone on "other" instead of a falling tone like the expert.
-* **01:25 - 01:26:** Student uses a rising tone on "phone" instead of a falling tone like the expert.
-* **01:28 - 01:29:** Student uses a rising tone on "models" instead of a falling tone like the expert.
-* **01:30 - 01:31:** Student uses a rising tone on "process" instead of a falling tone like the expert.
-* **01:32 - 01:33:** Student uses a rising tone on "not" instead of a falling tone like the expert.
-* **01:34 - 01:35:** Student uses a rising tone on "hampered" instead of a falling tone like the expert.
-* **01:36 - 01:37:** Student uses a rising tone on "by" instead of a falling tone like the expert.
-* **01:38 - 01:39:** Student uses a rising tone on "distance" instead of a falling tone like the expert.
-* **01:41 - 01:42:** Student uses a rising tone on "or" instead of a falling tone like the expert.
-* **01:43 - 01:44:** Student uses a rising tone on "different" instead of a falling tone like the expert.
-* **01:46 - 01:47:** Student uses a rising tone on "time" instead of a falling tone like the expert.
-* **01:48 - 01:49:** Student uses a rising tone on "zones" instead of a falling tone like the expert.
-* **01:50 - 01:51:** Student uses a rising tone on "smartphone" instead of a falling tone like the expert.
-* **01:53 - 01:54:** Student uses a rising tone on "differs" instead of a falling tone like the expert.
-* **01:55 - 01:56:** Student uses a rising tone on "from" instead of a falling tone like the expert.
-* **01:57 - 01:58:** Student uses a rising tone on "regular" instead of a falling tone like the expert.
-* **01:59 - 02:00:** Student uses a rising tone on "phones" instead of a falling tone like the expert.
-* **02:01 - 02:02:** Student uses a rising tone on "because" instead of a falling tone like the expert.
-* **02:03 - 02:04:** Student uses a rising tone on "special" instead of a falling tone like the expert.
-* **02:05 - 02:06:** Student uses a rising tone on "capabilities" instead of a falling tone like the expert.
-* **02:07 - 02:08:** Student uses a rising tone on "which" instead of a falling tone like the expert.
-* **02:09 - 02:10:** Student uses a rising tone on "include" instead of a falling tone like the expert.
-* **02:11 - 02:12:** Student uses a rising tone on "new" instead of a falling tone like the expert.
-* **02:13 - 02:14:** Student uses a rising tone on "icon" instead of a falling tone like the expert.
-* **02:15 - 02:16:** Student uses a rising tone on "games" instead of a falling tone like the expert.
-* **02:17 - 02:18:** Student uses a rising tone on "calls" instead of a falling tone like the expert.
-* **02:19 - 02:20:** Student uses a rising tone on "chats" instead of a falling tone like the expert.
-* **02:21 - 02:22:** Student uses a rising tone on "video" instead of a falling tone like the expert.
-* **02:23 - 02:24:** Student uses a rising tone on "calls" instead of a falling tone like the expert.
-* **02:25 - 02:26:** Student uses a rising tone on "cameras" instead of a falling tone like the expert.
-* **02:27 - 02:28:** Student uses a rising tone on "touch" instead of a falling tone like the expert.
-* **02:29 - 02:30:** Student uses a rising tone on "screens" instead of a falling tone like the expert.
-* **02:31 - 02:32:** Student uses a rising tone on "emailing" instead of a falling tone like the expert.
-* **02:33 - 02:34:** Student uses a rising tone on "storage" instead of a falling tone like the expert.
-* **02:35 - 02:36:** Student uses a rising tone on "etc" instead of a falling tone like the expert.
-* **02:37 - 02:38:** Student uses a rising tone on "it" instead of a falling tone like the expert.
-* **02:38 - 02:39:** Student uses a rising tone on "includes" instead of a falling tone like the expert.
-* **02:40 - 02:41:** Student uses a rising tone on "joystick" instead of a falling tone like the expert.
-* **02:42 - 02:43:** Student uses a rising tone on "wireless" instead of a falling tone like the expert.
-* **02:44 - 02:45:** Student uses a rising tone on "earbuds" instead of a falling tone like the expert.
-* **02:46 - 02:47:** Student uses a rising tone on "and" instead of a falling tone like the expert.
-* **02:48 - 02:49:** Student uses a rising tone on "host" instead of a falling tone like the expert.
-* **02:50 - 02:51:** Student uses a rising tone on "other" instead of a falling tone like the expert.
-* **02:52 - 02:53:** Student uses a rising tone on "attachments" instead of a falling tone like the expert.
-* **02:54 - 02:55:** Student uses a rising tone on "that" instead of a falling tone like the expert.
-* **02:56 - 02:57:** Student uses a rising tone on "enhance" instead of a falling tone like the expert.
-* **02:58 - 02:59:** Student uses a rising tone on "the" instead of a falling tone like the expert.
-* **03:00 - 03:01:** Student uses a rising tone on "smartphone" instead of a falling tone like the expert.
-* **03:02 - 03:03:** Student uses a rising tone on "experience" instead of a falling tone like the expert.
-* **03:04 - 03:05:** Student uses a rising tone on "it" instead of a falling tone like the expert.
-* **03:06 - 03:07:** Student uses a rising tone on "is" instead of a falling tone like the expert.
-* **03:08 - 03:09:** Student uses a rising tone on "revolution" instead of a falling tone like the expert.
-* **03:10 - 03:11:** Student uses a rising tone on "for" instead of a falling tone like the expert.
-* **03:12 - 03:13:** Student uses a rising tone on "the" instead of a falling tone like the expert.
-* **03:14 - 03:15:** Student uses a rising tone on "world" instead of a falling tone like the expert.
-* **03:16 - 03:17:** Student uses a rising tone on "that" instead of a falling tone like the expert.
-* **03:18 - 03:19:** Student uses a rising tone on "would" instead of a falling tone like the expert.
-* **03:20 - 03:21:** Student uses a rising tone on "keep" instead of a falling tone like the expert.
-* **03:22 - 03:23:** Student uses a rising tone on "everyone" instead of a falling tone like the expert.
-* **03:24 - 03:25:** Student uses a rising tone on "connected" instead of a falling tone like the expert.
-* **03:26 - 03:27:** Student uses a rising tone on "some" instead of a falling tone like the expert.
-* **03:28 - 03:29:** Student uses a rising tone on "the" instead of a falling tone like the expert.
-* **03:30 - 03:31:** Student uses a rising tone on "benefits" instead of a falling tone like the expert.
-* **03:32 - 03:33:** Student uses a rising tone on "of" instead of a falling tone like the expert.
-* **03:34 - 03:35:** Student uses a rising tone on "a" instead of a falling tone like the expert.
-* **03:36 - 03:37:** Student uses a rising tone on "smartphone" instead of a falling tone like the expert.
-* **03:38 - 03:39:** Student uses a rising tone on "include" instead of a falling tone like the expert.
-* **03:40 - 03:41:** Student uses a rising tone on "simple" instead of a falling tone like the expert.
-* **03:42 - 03:43:** Student uses a rising tone on "communication" instead of a falling tone like the expert.
-* **03:44 - 03:45:** Student uses a rising tone on "portability" instead of a falling tone like the expert.
-* **03:46 - 03:47:** Student uses a rising tone on "entertainment" instead of a falling tone like the expert.
-* **03:48 - 03:49:** Student uses a rising tone on "the" instead of a falling tone like the expert.
-* **03:50 - 03:51:** Student uses a rising tone on "capacity" instead of a falling tone like the expert.
-* **03:52 - 03:53:** Student uses a rising tone on "to" instead of a falling tone like the expert.
-* **03:54 - 03:55:** Student uses a rising tone on "book" instead of a falling tone like the expert.
-* **03:56 - 03:57:** Student uses a rising tone on "hotels" instead of a falling tone like the expert.
-* **03:58 - 03:59:** Student uses a rising tone on "flights" instead of a falling tone like the expert.
-* **04:00 - 04:01:** Student uses a rising tone on "and" instead of a falling tone like the expert.
-* **04:02 - 04:03:** Student uses a rising tone on "other" instead of a falling tone like the expert.
-* **04:04 - 04:05:** Student uses a rising tone on "travel" instead of a falling tone like the expert.
-* **04:06 - 04:07:** Student uses a rising tone on "related" instead of a falling tone like the expert.
-* **04:08 - 04:09:** Student uses a rising tone on "events" instead of a falling tone like the expert.
-* **04:10 - 04:11:** Student uses a rising tone on "as" instead of a falling tone like the expert.
-* **04:12 - 04:13:** Student uses a rising tone on "well" instead of a falling tone like the expert.
-* **04:14 - 04:15:** Student uses a rising tone on "the" instead of a falling tone like the expert.
-* **04:16 - 04:17:** Student uses a rising tone on "ability" instead of a falling tone like the expert.
-* **04:18 - 04:19:** Student uses a rising tone on "to" instead of a falling tone like the expert.
-* **04:20 - 04:21:** Student uses a rising tone on "take" instead of a falling tone like the expert.
-* **04:22 - 04:23:** Student uses a rising tone on "tests" instead of a falling tone like the expert.
-* **04:24 - 04:25:** Student uses a rising tone on "and" instead of a falling tone like the expert.
-* **04:26 - 04:27:** Student uses a rising tone on "attend" instead of a falling tone like the expert.
-* **04:28 - 04:29:** Student uses a rising tone on "classes" instead of a falling tone like the expert.
-* **04:30 - 04:31:** Student uses a rising tone on "however" instead of a falling tone like the expert.
-* **04:32 - 04:33:** Student uses a rising tone on "there" instead of a falling tone like the expert.
-* **04:34 - 04:35:** Student uses a rising tone on "are" instead of a falling tone like the expert.
-* **04:36 - 04:37:** Student uses a rising tone on "some" instead of a falling tone like the expert.
-* **04:38 - 04:39:** Student uses a rising tone on "drawbacks" instead of a falling tone like the expert.
-* **04:40 - 04:41:** Student uses a rising tone on "as" instead of a falling tone like the expert.
-* **04:42 - 04:43:** Student uses a rising tone on "well" instead of a falling tone like the expert.
-* **04:44 - 04:45:** Student uses a rising tone on "such" instead of a falling tone like the expert.
-* **04:46 - 04:47:** Student uses a rising tone on "as" instead of a falling tone like the expert.
-* **04:48 - 04:49:** Student uses a rising tone on "impaired" instead of a falling tone like the expert.
-* **04:50 - 04:51:** Student uses a rising tone on "vision" instead of a falling tone like the expert.
-* **04:52 - 04:53:** Student uses a rising tone on "decreased" instead of a falling tone like the expert.
-* **04:54 - 04:55:** Student uses a rising tone on "focus" instead of a falling tone like the expert.
-* **04:56 - 04:57:** Student uses a rising tone on "increased" instead of a falling tone like the expert.
-* **04:58 - 04:59:** Student uses a rising tone on "distraction" instead of a falling tone like the expert.
-* **05:00 - 05:01:** Student uses a rising tone on "addiction" instead of a falling tone like the expert.
-* **05:02 - 05:03:** Student uses a rising tone on "and" instead of a falling tone like the expert.
-* **05:04 - 05:05:** Student uses a rising tone on "misuse" instead of a falling tone like the expert.
-* **05:06 - 05:07:** Student uses a rising tone on "like" instead of a falling tone like the expert.
-* **05:08 - 05:09:** Student uses a rising tone on "any" instead of a falling tone like the expert.
-* **05:10 - 05:11:** Student uses a rising tone on "other" instead of a falling tone like the expert.
-* **05:12 - 05:13:** Student uses a rising tone on "resource" instead of a falling tone like the expert.
-* **05:14 - 05:15:** Student uses a rising tone on "a" instead of a falling tone like the expert.
-* **05:16 - 05:17:** Student uses a rising tone on "smartphone" instead of a falling tone like the expert.
-* **05:18 - 05:19:** Student uses a rising tone on "should" instead of a falling tone like the expert.
-* **05:20 - 05:21:** Student uses a rising tone on "also" instead of a falling tone like the expert.
-* **05:22 - 05:23:** Student uses a rising tone on "be" instead of a falling tone like the expert.
-* **05:24 - 05:25:** Student uses a rising tone on "used" instead of a falling tone like the expert.
-* **05:26 - 05:27:** Student uses a rising tone on "responsibly" instead of a falling tone like the expert.
-* **05:28 - 05:29:** Student uses a rising tone on "to" instead of a falling tone like the expert.
-* **05:30 - 05:31:** Student uses a rising tone on "prevent" instead of a falling tone like the expert.
-* **05:32 - 05:33:** Student uses a rising tone on "unfavorable" instead of a falling tone like the expert.
-* **05:34 - 05:35:** Student uses a rising tone on "outcomes" instead of a falling tone like the expert.
-* **05:36 - 05:37:** Student uses a rising tone on "any" instead of a falling tone like the expert.
-* **05:38 - 05:39:** Student uses a rising tone on "benefit" instead of a falling tone like the expert.
-* **05:40 - 05:41:** Student uses a rising tone on "might" instead of a falling tone like the expert.
-* **05:42 - 05:43:** Student uses a rising tone on "become" instead of a falling tone like the expert.
-* **05:44 - 05:45:** Student uses a rising tone on "a" instead of a falling tone like the expert.
-* **05:46 - 05:47:** Student uses a rising tone on "liability" instead of a falling tone like the expert.
-* **05:48 - 05:49:** Student uses a rising tone on "if" instead of a falling tone like the expert.
-* **05:50 - 05:51:** Student uses a rising tone on "not" instead of a falling tone like the expert.
-* **05:52 - 05:53:** Student uses a rising tone on "used" instead of a falling tone like the expert.
-* **05:54 - 05:55:** Student uses a rising tone on "properly" instead of a falling tone like the expert.
+3. "Smartphones having the fastest conversation that other phones models the process in the other harmed by the stance or the different time zones."
+Correct: "Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones."
 
-**Conclusion:**
+4. "A smartphone different types of the regular of phones used of the it's a special capabilities which included new icon games cells charts video calls camera touch touch screens emailing storage etc. It is including a joystick wireless earbuds earbuds and other host of each other attachment that is iconicly that's smartphone experience experience that it is a rotation of the world that would be keep everyone everyone everyone."
+Correct: "A smartphone differs from regular phones because of its special capabilities, which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etc. It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected."
 
-The student's intonation is categorized as **Emergent** because they demonstrate clear rising and falling tones in less than 60% of instances.  The student consistently uses rising tones instead of falling tones, which significantly deviates from the expert's rendition. The student needs to pay more attention to identifying and utilizing falling tones in their speech to improve their intonation. 
-## Fluency Report
-Bucket: **Emergent**
+5. "Some of the differences of the smartphone including simply communicative probability entertainment and the captaincy captain to be careful or hostels of the fight and other travel released events as well of the available to test and to attend classes However, there are some black breaks as which such as impresive viaries of the direction of fuses and increased the direction addition and the musicals like any other resources has smartphone should be also used to responsibility to prevent the unavailable available out of outcomes. Any varieties might become a liability if not use a property."
+Correct: "Some of the benefits of a smartphone include simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel related events, as well as the ability to take tests and attend classes. However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction, and misuse. Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes. Any benefit might become a liability if not used properly."
 
-Following lines:
-- 00:00 - 00:01:  The student has a pause of 1.4 seconds at the beginning of the recording. This is longer than the expert's 0.7-second pause, creating a slightly disjointed start.  Suggestion: Try to decrease the length of the initial pause to match the expert's timing.
-- 00:02 - 00:03: The student has a pause of 1.5 seconds, while the expert's is 1.1 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause slightly to maintain a smoother flow. 
-- 00:03 - 00:04: The student has a pause of 1.2 seconds, while the expert's is 0.7 seconds. Again, this creates a slight interruption. Suggestion: Aim for a shorter pause here, closer to the expert's timing.
-- 00:05 - 00:06: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:06 - 00:07: The student has a pause of 1.4 seconds, while the expert's is 1.1 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:07 - 00:08: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:08 - 00:09: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:09 - 00:10: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:10 - 00:11: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:11 - 00:12: The student has a pause of 1.7 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:12 - 00:13: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:13 - 00:14: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:14 - 00:15: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:15 - 00:16: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:16 - 00:17: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:17 - 00:18: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:18 - 00:19: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:19 - 00:20: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:20 - 00:21: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:21 - 00:22: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:22 - 00:23: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:23 - 00:24: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:24 - 00:25: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:25 - 00:26: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:26 - 00:27: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:27 - 00:28: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:28 - 00:29: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:29 - 00:30: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:30 - 00:31: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:31 - 00:32: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:32 - 00:33: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:33 - 00:34: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:34 - 00:35: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:35 - 00:36: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:36 - 00:37: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:37 - 00:38: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:38 - 00:39: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:39 - 00:40: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:40 - 00:41: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:41 - 00:42: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:42 - 00:43: The student has a pause of 1.7 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:43 - 00:44: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:44 - 00:45: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:45 - 00:46: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:46 - 00:47: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:47 - 00:48: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:48 - 00:49: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:49 - 00:50: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:50 - 00:51: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:51 - 00:52: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:52 - 00:53: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:53 - 00:54: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:54 - 00:55: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:55 - 00:56: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:56 - 00:57: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:57 - 00:58: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 00:58 - 00:59: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 00:59 - 01:00: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:00 - 01:01: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:01 - 01:02: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:02 - 01:03: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:03 - 01:04: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:04 - 01:05: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:05 - 01:06: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:06 - 01:07: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:07 - 01:08: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:08 - 01:09: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:09 - 01:10: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:10 - 01:11: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:11 - 01:12: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:12 - 01:13: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:13 - 01:14: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:14 - 01:15: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:15 - 01:16: The student has a pause of 1.3 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:16 - 01:17: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:17 - 01:18: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:18 - 01:19: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:19 - 01:20: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:20 - 01:21: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:21 - 01:22: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:22 - 01:23: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:23 - 01:24: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:24 - 01:25: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:25 - 01:26: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:26 - 01:27: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:27 - 01:28: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:28 - 01:29: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:29 - 01:30: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:30 - 01:31: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:31 - 01:32: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:32 - 01:33: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:33 - 01:34: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:34 - 01:35: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:35 - 01:36: The student has a pause of 1.6 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:36 - 01:37: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:37 - 01:38: The student has a pause of 1.7 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:38 - 01:39: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:39 - 01:40: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:40 - 01:41: The student has a pause of 1.6 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:41 - 01:42: The student has a pause of 1.3 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:42 - 01:43: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:43 - 01:44: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:44 - 01:45: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:45 - 01:46: The student has a pause of 1.7 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:46 - 01:47: The student has a pause of 1.4 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:47 - 01:48: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:48 - 01:49: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:49 - 01:50: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:50 - 01:51: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:51 - 01:52: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:52 - 01:53: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:53 - 01:54: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:54 - 01:55: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:55 - 01:56: The student has a pause of 1.5 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:56 - 01:57: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:57 - 01:58: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 01:58 - 01:59: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 01:59 - 02:00: The student has a pause of 1.4 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:00 - 02:01: The student has a pause of 1.5 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:01 - 02:02: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 02:02 - 02:03: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:03 - 02:04: The student has a pause of 1.6 seconds, while the expert's is 0.7 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 02:04 - 02:05: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:05 - 02:06: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:06 - 02:07: The student has a pause of 1.7 seconds, while the expert's is 0.9 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 02:07 - 02:08: The student has a pause of 1.5 seconds, while the expert's is 0.7 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:08 - 02:09: The student has a pause of 1.6 seconds, while the expert's is 0.8 seconds. This creates a significant interruption. Suggestion: Aim for a much shorter pause, closer to the expert's timing.
-- 02:09 - 02:10: The student has a pause of 1.3 seconds, while the expert's is 0.9 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
-- 02:10 - 02:11: The student has a pause of 1.4 seconds, while the expert's is 0.8 seconds. This creates a noticeable break in the flow. Suggestion: Try to shorten this pause to maintain a smoother flow.
+Total Number of Chunking Mistakes: 5
+``````markdown
+Intonation Report
+Bucket: Emergent
 
-The student exhibits frequent pauses exceeding 1 second per minute of speech, surpassing the threshold for Emergent fluency. The student's reading lacks smoothness and natural flow, suggesting further practice is needed to improve fluency. 
+Instances of Intonation Deviations:
+
+1. **0:01-0:03:** Student uses a flat tone throughout this phrase, whereas the expert uses a rising tone on "smartphone" and a falling tone on "combines". This indicates a lack of understanding of the sentence structure and its intended meaning.
+2. **0:04-0:07:** Similar to the previous example, the student maintains a flat tone while the expert employs a rising tone on "essential functions" and a falling tone on "phone" and "system".
+3. **0:09-0:11:** Student doesn't incorporate the rising tone on "speed" and the falling tone on "access", failing to emphasize the specific features of a smartphone.
+4. **0:14-0:18:** While the expert uses a clear rising tone on "smartphones" and a falling tone on "rates", the student struggles to maintain the proper intonation, using a flat tone throughout.
+5. **0:20-0:25:**  The student delivers a flat tone on "smartphones" and "connectivity" where the expert uses a rising tone. The lack of rising tone on "connectivity" hinders the clarity of the phrase.
+6. **0:30-0:34:** Throughout this sentence, the student employs a flat tone, lacking the rising and falling tones used by the expert, especially on "differs" and "capabilities". 
+7. **0:35-0:39:** Student misses the rising tone on "new" and "games" and fails to convey the importance of "video calls" with a falling tone.
+8. **0:41-0:45:** The student fails to utilize the rising and falling tones effectively, resulting in a monotone delivery instead of emphasizing "joy stick" and "earbuds".
+9. **0:51-0:53:** Similar to previous instances, the student lacks the rising and falling tones on "connected" and "smartphones" to create impact.
+10. **0:54-0:58:** Student fails to deliver the rising tone on "communication" and the falling tone on "portability" and "entertainment".
+11. **0:59-0:64:**  The student maintains a flat tone throughout, failing to express the rising and falling tones used by the expert on "hotels", "flights" and "related events".
+12. **0:66-0:70:** The student struggles to utilize the rising and falling tones, missing the emphasis on "take tests" and "attend classes".
+13. **0:71-0:75:** The student misses the rising tone on "drawbacks" and uses a flat tone on "vision" and "focus".
+14. **0:76-0:79:** The student lacks the rising tone on "distraction" and "addiction", undermining the meaning of the phrase.
+15. **0:80-0:83:** The student misses the rising tone on "any other resource" and the falling tone on "smartphone".
+16. **0:84-0:87:** Student fails to convey the rising tone on "responsibly" and the falling tone on "outcomes".
+17. **0:88-0:92:**  The student fails to highlight "liability" with a falling tone.
+18. **0:93-0:95:** Student misses the rising tone on "properly" and "the end".
+
+Based on the above observations, the student's intonation performance can be categorized as **Emergent**. The student demonstrates inconsistent use of rising and falling tones, indicating a need for further practice and guidance in developing proper intonation skills. 
+``````md
+Fluency Report
+Bucket: Emergent
+0:00 - 0:01: Pause longer than required.  Try to maintain a faster pace here.
+0:01 - 0:02: Pause longer than required.  Try to maintain a faster pace here.
+0:02 - 0:03: Pause longer than required.  Try to maintain a faster pace here.
+0:03 - 0:04: Pause longer than required.  Try to maintain a faster pace here.
+0:04 - 0:05: Pause longer than required.  Try to maintain a faster pace here.
+0:05 - 0:06: Pause longer than required.  Try to maintain a faster pace here.
+0:06 - 0:07: Pause longer than required.  Try to maintain a faster pace here.
+0:07 - 0:08: Pause longer than required.  Try to maintain a faster pace here.
+0:08 - 0:09: Pause longer than required.  Try to maintain a faster pace here.
+0:09 - 0:10: Pause longer than required.  Try to maintain a faster pace here.
+0:10 - 0:11: Pause longer than required.  Try to maintain a faster pace here.
+0:11 - 0:12: Pause longer than required.  Try to maintain a faster pace here.
+0:12 - 0:13: Pause longer than required.  Try to maintain a faster pace here.
+0:13 - 0:14: Pause longer than required.  Try to maintain a faster pace here.
+0:14 - 0:15: Pause longer than required.  Try to maintain a faster pace here.
+0:15 - 0:16: Pause longer than required.  Try to maintain a faster pace here.
+0:16 - 0:17: Pause longer than required.  Try to maintain a faster pace here.
+0:17 - 0:18: Pause longer than required.  Try to maintain a faster pace here.
+0:18 - 0:19: Pause longer than required.  Try to maintain a faster pace here.
+0:19 - 0:20: Pause longer than required.  Try to maintain a faster pace here.
+0:20 - 0:21: Pause longer than required.  Try to maintain a faster pace here.
+0:21 - 0:22: Pause longer than required.  Try to maintain a faster pace here.
+0:22 - 0:23: Pause longer than required.  Try to maintain a faster pace here.
+0:23 - 0:24: Pause longer than required.  Try to maintain a faster pace here.
+0:24 - 0:25: Pause longer than required.  Try to maintain a faster pace here.
+0:25 - 0:26: Pause longer than required.  Try to maintain a faster pace here.
+0:26 - 0:27: Pause longer than required.  Try to maintain a faster pace here.
+0:27 - 0:28: Pause longer than required.  Try to maintain a faster pace here.
+0:28 - 0:29: Pause longer than required.  Try to maintain a faster pace here.
+0:29 - 0:30: Pause longer than required.  Try to maintain a faster pace here.
+0:30 - 0:31: Pause longer than required.  Try to maintain a faster pace here.
+0:31 - 0:32: Pause longer than required.  Try to maintain a faster pace here.
+0:32 - 0:33: Pause longer than required.  Try to maintain a faster pace here.
+0:33 - 0:34: Pause longer than required.  Try to maintain a faster pace here.
+0:34 - 0:35: Pause longer than required.  Try to maintain a faster pace here.
+0:35 - 0:36: Pause longer than required.  Try to maintain a faster pace here.
+0:36 - 0:37: Pause longer than required.  Try to maintain a faster pace here.
+0:37 - 0:38: Pause longer than required.  Try to maintain a faster pace here.
+0:38 - 0:39: Pause longer than required.  Try to maintain a faster pace here.
+0:39 - 0:40: Pause longer than required.  Try to maintain a faster pace here.
+0:40 - 0:41: Pause longer than required.  Try to maintain a faster pace here.
+0:41 - 0:42: Pause longer than required.  Try to maintain a faster pace here.
+0:42 - 0:43: Pause longer than required.  Try to maintain a faster pace here.
+0:43 - 0:44: Pause longer than required.  Try to maintain a faster pace here.
+0:44 - 0:45: Pause longer than required.  Try to maintain a faster pace here.
+0:45 - 0:46: Pause longer than required.  Try to maintain a faster pace here.
+0:46 - 0:47: Pause longer than required.  Try to maintain a faster pace here.
+0:47 - 0:48: Pause longer than required.  Try to maintain a faster pace here.
+0:48 - 0:49: Pause longer than required.  Try to maintain a faster pace here.
+0:49 - 0:50: Pause longer than required.  Try to maintain a faster pace here.
+0:50 - 0:51: Pause longer than required.  Try to maintain a faster pace here.
+0:51 - 0:52: Pause longer than required.  Try to maintain a faster pace here.
+0:52 - 0:53: Pause longer than required.  Try to maintain a faster pace here.
+0:53 - 0:54: Pause longer than required.  Try to maintain a faster pace here.
+0:54 - 0:55: Pause longer than required.  Try to maintain a faster pace here.
+0:55 - 0:56: Pause longer than required.  Try to maintain a faster pace here.
+0:56 - 0:57: Pause longer than required.  Try to maintain a faster pace here.
+0:57 - 0:58: Pause longer than required.  Try to maintain a faster pace here.
+0:58 - 0:59: Pause longer than required.  Try to maintain a faster pace here.
+0:59 - 1:00: Pause longer than required.  Try to maintain a faster pace here.
+1:00 - 1:01: Pause longer than required.  Try to maintain a faster pace here.
+1:01 - 1:02: Pause longer than required.  Try to maintain a faster pace here.
+1:02 - 1:03: Pause longer than required.  Try to maintain a faster pace here.
+1:03 - 1:04: Pause longer than required.  Try to maintain a faster pace here.
+1:04 - 1:05: Pause longer than required.  Try to maintain a faster pace here.
+1:05 - 1:06: Pause longer than required.  Try to maintain a faster pace here.
+1:06 - 1:07: Pause longer than required.  Try to maintain a faster pace here.
+1:07 - 1:08: Pause longer than required.  Try to maintain a faster pace here.
+1:08 - 1:09: Pause longer than required.  Try to maintain a faster pace here.
+1:09 - 1:10: Pause longer than required.  Try to maintain a faster pace here.
+1:10 - 1:11: Pause longer than required.  Try to maintain a faster pace here.
+1:11 - 1:12: Pause longer than required.  Try to maintain a faster pace here.
+1:12 - 1:13: Pause longer than required.  Try to maintain a faster pace here.
+1:13 - 1:14: Pause longer than required.  Try to maintain a faster pace here.
+1:14 - 1:15: Pause longer than required.  Try to maintain a faster pace here.
+1:15 - 1:16: Pause longer than required.  Try to maintain a faster pace here.
+1:16 - 1:17: Pause longer than required.  Try to maintain a faster pace here.
+1:17 - 1:18: Pause longer than required.  Try to maintain a faster pace here.
+1:18 - 1:19: Pause longer than required.  Try to maintain a faster pace here.
+1:19 - 1:20: Pause longer than required.  Try to maintain a faster pace here.
+1:20 - 1:21: Pause longer than required.  Try to maintain a faster pace here.
+1:21 - 1:22: Pause longer than required.  Try to maintain a faster pace here.
+1:22 - 1:23: Pause longer than required.  Try to maintain a faster pace here.
+1:23 - 1:24: Pause longer than required.  Try to maintain a faster pace here.
+1:24 - 1:25: Pause longer than required.  Try to maintain a faster pace here.
+1:25 - 1:26: Pause longer than required.  Try to maintain a faster pace here.
+1:26 - 1:27: Pause longer than required.  Try to maintain a faster pace here.
+1:27 - 1:28: Pause longer than required.  Try to maintain a faster pace here.
+1:28 - 1:29: Pause longer than required.  Try to maintain a faster pace here.
+1:29 - 1:30: Pause longer than required.  Try to maintain a faster pace here.
+1:30 - 1:31: Pause longer than required.  Try to maintain a faster pace here.
+1:31 - 1:32: Pause longer than required.  Try to maintain a faster pace here.
+1:32 - 1:33: Pause longer than required.  Try to maintain a faster pace here.
+1:33 - 1:34: Pause longer than required.  Try to maintain a faster pace here.
+1:34 - 1:35: Pause longer than required.  Try to maintain a faster pace here.
+1:35 - 1:36: Pause longer than required.  Try to maintain a faster pace here.
+1:36 - 1:37: Pause longer than required.  Try to maintain a faster pace here.
+1:37 - 1:38: Pause longer than required.  Try to maintain a faster pace here.
+1:38 - 1:39: Pause longer than required.  Try to maintain a faster pace here.
+1:39 - 1:40: Pause longer than required.  Try to maintain a faster pace here.
+1:40 - 1:41: Pause longer than required.  Try to maintain a faster pace here.
+1:41 - 1:42: Pause longer than required.  Try to maintain a faster pace here.
+1:42 - 1:43: Pause longer than required.  Try to maintain a faster pace here.
+1:43 - 1:44: Pause longer than required.  Try to maintain a faster pace here.
+1:44 - 1:45: Pause longer than required.  Try to maintain a faster pace here.
+1:45 - 1:46: Pause longer than required.  Try to maintain a faster pace here.
+1:46 - 1:47: Pause longer than required.  Try to maintain a faster pace here.
+1:47 - 1:48: Pause longer than required.  Try to maintain a faster pace here.
+1:48 - 1:49: Pause longer than required.  Try to maintain a faster pace here.
+1:49 - 1:50: Pause longer than required.  Try to maintain a faster pace here.
+1:50 - 1:51: Pause longer than required.  Try to maintain a faster pace here.
+1:51 - 1:52: Pause longer than required.  Try to maintain a faster pace here.
+1:52 - 1:53: Pause longer than required.  Try to maintain a faster pace here.
+1:53 - 1:54: Pause longer than required.  Try to maintain a faster pace here.
+1:54 - 1:55: Pause longer than required.  Try to maintain a faster pace here.
+1:55 - 1:56: Pause longer than required.  Try to maintain a faster pace here.
+1:56 - 1:57: Pause longer than required.  Try to maintain a faster pace here.
+1:57 - 1:58: Pause longer than required.  Try to maintain a faster pace here.
+1:58 - 1:59: Pause longer than required.  Try to maintain a faster pace here.
+1:59 - 2:00: Pause longer than required.  Try to maintain a faster pace here.
+2:00 - 2:01: Pause longer than required.  Try to maintain a faster pace here.
+2:01 - 2:02: Pause longer than required.  Try to maintain a faster pace here.
+2:02 - 2:03: Pause longer than required.  Try to maintain a faster pace here.
+2:03 - 2:04: Pause longer than required.  Try to maintain a faster pace here.
+2:04 - 2:05: Pause longer than required.  Try to maintain a faster pace here.
+2:05 - 2:06: Pause longer than required.  Try to maintain a faster pace here.
+2:06 - 2:07: Pause longer than required.  Try to maintain a faster pace here.
+2:07 - 2:08: Pause longer than required.  Try to maintain a faster pace here.
+2:08 - 2:09: Pause longer than required.  Try to maintain a faster pace here.
+2:09 - 2:10: Pause longer than required.  Try to maintain a faster pace here.
+2:10 - 2:11: Pause longer than required.  Try to maintain a faster pace here.
+``````markdown
 Reading Speed Report
-Bucket: **Transitional**
+Bucket: Emergent
 
-The student's reading speed is moderately slower than the expert's. While the student maintains a consistent pace throughout the reading, they read approximately 10% slower than the expert. This difference is noticeable in the overall duration of the reading, with the student taking longer to complete the passage.  
-
-Notable Deviations:
-
-* **Word Pronunciation:** The student demonstrates a slightly slower pace in the pronunciation of certain words, like "integrated" and "capability." The pronunciation is correct but slightly elongated. 
-
-* **Phrasing:** The student utilizes slightly shorter phrases than the expert, which results in a slower overall reading speed. 
-
-* **Emphasis:** The student maintains a similar level of emphasis to the expert but demonstrates a less pronounced emphasis on certain key phrases and words. This may contribute to the perception of a slightly slower reading pace. 
+The student's reading speed is significantly slower than the expert's. The student takes longer pauses between words and phrases, often reading at a much slower pace, especially when reading longer words or complex phrases.  The student often stumbles over words and repeats them multiple times, suggesting a lack of fluency and confidence.  The student's pronunciation is also slightly affected, with some words mispronounced. 
+```
