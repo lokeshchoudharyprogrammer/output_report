@@ -1,354 +1,274 @@
 Pronunciation Report
 Bucket: Transitional
-Mispronounced Words: 14
+Mispronounced Words: 17
 Ensure: Pronounced as "Enshore"
-Essential: Pronounced as "Eshenshal"
 Integrated: Pronounced as "Intergrated"
-Computer: Pronounced as "Computher"
-Mobility: Pronounced as "Mobaility"
-Includes: Pronounced as "Inclodes"
-Internet: Pronounced as "Internat"
-Connectivity: Pronounced as "Connectability"
+Computer: Pronounced as "Compu-ter"
+Mobility: Pronounced as "Mobili-ty"
+Features: Pronounced as "Future"
+Includes: Pronounced as "Include"
+Internet: Pronounced as "Inter-net"
+Connectivity: Pronounced as "Connectiv-ty"
 Icons: Pronounced as "I-cons"
-Smartphones: Pronounced as "Smartphones"
+Smartphones: Pronounced as "Smart-phones"
 Widely: Pronounced as "Widely"
-Purchased: Pronounced as "Purchsed"
-Variety: Pronounced as "Variaty"
-Depending: Pronounced as "Dependin" 
+Purchased: Pronounced as "Purch-sed"
+Variety: Pronounced as "Vari-ty"
+Depending: Pronounced as "Dep-ding"
 Brands: Pronounced as "Brands"
-Features: Pronounced as "Feathers" 
-Faster: Pronounced as "Fastar"
-Connectivity: Pronounced as "Connectability"
-Models: Pronounced as "Mobiles"
-Process: Pronounced as "Process"
-Hampers: Pronounced as "Hampard"
-Distance: Pronounced as "Distanse"
-Different: Pronounced as "Different"
-Time zones: Pronounced as "Time zones"
-Smartphone: Pronounced as "Smart phone" 
-Differs: Pronounced as "Differs"
-Regular: Pronounced as "Reguler"
-Special: Pronounced as "Speshal"
-Capabilities: Pronounced as "Capabilities"
-Include: Pronounced as "Inclode"
-Icons: Pronounced as "I-cons"
+Features: Pronounced as "Future"
+Faster: Pronounced as "Faster"
+Connectivity: Pronounced as "Connectiv-ty"
+Models: Pronounced as "Mobile"
+Process: Pronounced as "Pros-es"
+Distant: Pronounced as "Dis-tant"
+Different: Pronounced as "Dif-ferent"
+Time Zones: Pronounced as "Time-zones"
+Regular: Pronounced as "Regular"
+Special: Pronounced as "Sp-cial"
+Capabilities: Pronounced as "Cap-bilities"
+Include: Pronounced as "Include"
+Icon: Pronounced as "I-con"
 Games: Pronounced as "Games"
 Calls: Pronounced as "Calls"
 Chats: Pronounced as "Chats"
-Video calls: Pronounced as "Video calls"
-Cameras: Pronounced as "Cameras"
-Touch screens: Pronounced as "Touch screens"
+Video Calls: Pronounced as "Video-calls"
+Touchscreens: Pronounced as "Touch-screens"
 E-mailing: Pronounced as "E-mailing"
-Storage: Pronounced as "Storage"
-Joystick: Pronounced as "Joystick" 
-Wireless: Pronounced as "Wireless" 
+Joystick: Pronounced as "Joy-stick"
+Wireless: Pronounced as "Wire-less"
 Earbuds: Pronounced as "Earbirds"
-Host: Pronounced as "Host" 
-Attachments: Pronounced as "Attachements" 
-Enhance: Pronounced as "Inheals" 
-Smartphone: Pronounced as "Smartphone"
-Experience: Pronounced as "Experience" 
-Revolution: Pronounced as "Revolution"
-World: Pronounced as "World"
-Would: Pronounced as "Would" 
-Keep: Pronounced as "Keep" 
-Everyone: Pronounced as "Every one"
-Connected: Pronounced as "Connected"
-Some: Pronounced as "Some" 
-Benefits: Pronounced as "Benefits"
-Smartphone: Pronounced as "Smart phone" 
-Includes: Pronounced as "Inclodes" 
-Simple: Pronounced as "Simple" 
-Communication: Pronounced as "Communication"
-Portability: Pronounced as "Probabilty"
-Entertainment: Pronounced as "Entertainment"
-Capacity: Pronounced as "Capacity"
-Book: Pronounced as "Book"
-Hotels: Pronounced as "Hotels" 
+Host: Pronounced as "Host"
+Attachments: Pronounced as "Attach-ments"
+Enhance: Pronounced as "En-hale"
+Smartphone: Pronounced as "Smart-phone"
+Experience: Pronounced as "Exper-ence"
+Revolution: Pronounced as "Rev-lution" 
+Everyone: Pronounced as "Every-one"
+Benefits: Pronounced as "Benef-its"
+Includes: Pronounced as "Include"
+Communication: Pronounced as "Communic-tion"
+Portability: Pronounced as "Prob-bility"
+Entertainment: Pronounced as "Enter-tainment"
+Capacity: Pronounced as "Capac-ty"
+Hotels: Pronounced as "Hotels"
 Flights: Pronounced as "Flights"
-Other: Pronounced as "Other"
-Travel: Pronounced as "Travel" 
-Related: Pronounced as "Related" 
-Events: Pronounced as "Events" 
-As well as: Pronounced as "As well as"
+Travel-Related: Pronounced as "Travel-related"
+Events: Pronounced as "Events"
 Ability: Pronounced as "Ability"
-Take: Pronounced as "Take"
 Tests: Pronounced as "Tests"
 Attend: Pronounced as "Attend"
-Classes: Pronounced as "Classes"
 However: Pronounced as "However"
-There are: Pronounced as "There are"
-Some: Pronounced as "Some"
-Drawbacks: Pronounced as "Drawbacks" 
-As well: Pronounced as "As well" 
-Such as: Pronounced as "Such as"
-Impaired: Pronounced as "Inpaired" 
+Drawbacks: Pronounced as "Draw-backs"
 Vision: Pronounced as "Vision"
-Decreased: Pronounced as "Descried" 
+Decreased: Pronounced as "Described"
 Focus: Pronounced as "Focuses"
-Increased: Pronounced as "Distracted" 
-Distraction: Pronounced as "Distraction"
-Addiction: Pronounced as "Addition" 
-Misuse: Pronounced as "Misuses"
-Like: Pronounced as "Like" 
-Any: Pronounced as "Other"
-Other: Pronounced as "Other"
-Resource: Pronounced as "Resource"
-Smartphone: Pronounced as "Smartphone"
-Should: Pronounced as "Should"
-Also: Pronounced as "Also" 
-Be: Pronounced as "Be" 
-Used: Pronounced as "Used"
-Responsibly: Pronounced as "Responsibility"
-Prevent: Pronounced as "Prevent"
-Unfavourable: Pronounced as "Unfavourable"
-Outcomes: Pronounced as "Outcomes" 
+Distraction: Pronounced as "Dis-traction"
+Addiction: Pronounced as "Addiction"
+Misuse: Pronounced as "Mis-uses"
 Any: Pronounced as "Any"
+Resource: Pronounced as "Resource"
+Smartphone: Pronounced as "Smart-phone"
+Should: Pronounced as "Should"
+Responsibly: Pronounced as "Responsib-ility"
+Prevent: Pronounced as "Prevent"
+Unfavorable: Pronounced as "Unfavorable"
+Outcomes: Pronounced as "Outcomes"
 Benefit: Pronounced as "Benefit"
 Might: Pronounced as "Might"
-Become: Pronounced as "Become"
-Liability: Pronounced as "Liability"
-If not: Pronounced as "If not"
-Used: Pronounced as "Used" 
-Properly: Pronounced as "Properly" 
+Liability: Pronounced as "Reabil-ity"
+If Not Used: Pronounced as "If not"
+Properly: Pronounced as "Proper-ly" 
 Chunking Report
-Bucket: **Transitional**
-
-Chunking Mistakes and Corrections:
-
-1. **Student:** "A smart phone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role." 
-**Expert:** "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system, with mobility playing a key role." 
-2. **Student:** "It's features includes speed, internet access, computer connectivity, icons, etc. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features." 
-**Expert:** "It's features includes speed, internet access, computer connectivity, icons, etc. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features." 
-3. **Student:** "Smartphones have faster connectivity than other phone mobiles models. The process is not hampered by the distance or the different time zones."
-**Expert:** "Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones." 
-4. **Student:** "A smartphone differs from regular phones because of it's special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage etc." 
-**Expert:** "A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etc."
-5. **Student:** "It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected."
-**Expert:** "It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected."
-6. **Student:** "Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel related events as well as the ability to take tests and attend classes."
-**Expert:** "Some of the benefits of a smartphone include simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel-related events as well as the ability to take tests and attend classes."
-7. **Student:** "However, there are some drawbacks as well such as impaired vision, decreased focus, increased distraction, addiction and misuse." 
-**Expert:** "However, there are some drawbacks as well such as impaired vision, decreased focus, increased distraction, addiction, and misuse." 
-8. **Student:** "Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes."
-**Expert:** "Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes." 
-9. **Student:** "Any benefit might become a liability if not used properly."
-**Expert:** "Any benefit might become a liability if not used properly." 
-
-The student has made 9 chunking mistakes, resulting in a 45% error rate. Therefore, the student's performance is categorized as **Transitional**. 
-## Intonation Report
-
 Bucket: **Emergent**
+Chunking Mistakes and Corrections
 
-**Deviations from Expert's Rendition:**
+1. **Student:** A smartphone is a gadget that combines the essential functions of a phone that has an
+**Expert:** A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role.
+2. **Student:** integrated computer system with mobility playing a key role. Its features includes speed, internet access, computer connectivity, icons etcetera.
+**Expert:** integrated computer system with mobility playing a key role. Its features include speed, internet access, computer connectivity, icons, etcetera. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features.
+3. **Student:** Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features. Smartphones have faster connectivity than other phone mobiles models. 
+**Expert:** Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones.
+4. **Student:** The process is not hampered by the distance or the different time zones. A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage etcetera.
+**Expert:** A smartphone differs from regular phones because of its special capabilities, which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etcetera. It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. 
+5. **Student:** It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected. Some of the benefits for a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel related events, as well as the ability to take tests and attend classes.
+**Expert:** It is a revolution for the world that would keep everyone connected. Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel related events as well as the ability to take tests and attend classes.
+6. **Student:** However, there are some drawbacks as well, such as impaired vision, decreased focus, distracted focus, increased distraction, addiction, and misuses.
+**Expert:** However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction and misuse.
+7. **Student:** Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes. Any benefit might become a liability if not used properly.
+**Expert:** Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes. Any benefit might become a liability if not used properly.
 
-* **0:05:** Student uses a rising intonation on "smartphone" instead of the expert's falling tone.
-* **0:07:** Student uses a flat intonation on "combines" instead of the expert's rising tone.
-* **0:09:** Student uses a falling intonation on "essential" instead of the expert's rising tone.
-* **0:11:** Student uses a flat intonation on "phone" instead of the expert's rising tone.
-* **0:12:** Student uses a falling intonation on "has" instead of the expert's rising tone.
-* **0:13:** Student uses a falling intonation on "integrated" instead of the expert's rising tone.
-* **0:14:** Student uses a falling intonation on "computer" instead of the expert's rising tone.
-* **0:15:** Student uses a flat intonation on "system" instead of the expert's rising tone.
-* **0:16:** Student uses a falling intonation on "with" instead of the expert's rising tone.
-* **0:17:** Student uses a falling intonation on "mobility" instead of the expert's rising tone.
-* **0:18:** Student uses a falling intonation on "playing" instead of the expert's rising tone.
-* **0:20:** Student uses a falling intonation on "key" instead of the expert's rising tone.
-* **0:21:** Student uses a flat intonation on "role" instead of the expert's rising tone.
-* **0:22:** Student uses a falling intonation on "Its" instead of the expert's rising tone.
-* **0:23:** Student uses a flat intonation on "includes" instead of the expert's rising tone.
-* **0:25:** Student uses a flat intonation on "speed" instead of the expert's rising tone.
-* **0:26:** Student uses a flat intonation on "internet" instead of the expert's rising tone.
-* **0:27:** Student uses a flat intonation on "access" instead of the expert's rising tone.
-* **0:28:** Student uses a flat intonation on "computer" instead of the expert's rising tone.
-* **0:29:** Student uses a flat intonation on "connectivity" instead of the expert's rising tone.
-* **0:30:** Student uses a flat intonation on "icons" instead of the expert's rising tone.
-* **0:31:** Student uses a flat intonation on "etcetera" instead of the expert's rising tone.
-* **0:32:** Student uses a falling intonation on "Smartphones" instead of the expert's rising tone.
-* **0:33:** Student uses a falling intonation on "are" instead of the expert's rising tone.
-* **0:34:** Student uses a falling intonation on "widely" instead of the expert's rising tone.
-* **0:35:** Student uses a flat intonation on "used" instead of the expert's rising tone.
-* **0:36:** Student uses a flat intonation on "can" instead of the expert's rising tone.
-* **0:37:** Student uses a falling intonation on "be" instead of the expert's rising tone.
-* **0:38:** Student uses a falling intonation on "purchased" instead of the expert's rising tone.
-* **0:39:** Student uses a falling intonation on "at" instead of the expert's rising tone.
-* **0:40:** Student uses a falling intonation on "a" instead of the expert's rising tone.
-* **0:41:** Student uses a flat intonation on "variety" instead of the expert's rising tone.
-* **0:42:** Student uses a flat intonation on "of" instead of the expert's rising tone.
-* **0:43:** Student uses a flat intonation on "rates" instead of the expert's rising tone.
-* **0:44:** Student uses a falling intonation on "depending" instead of the expert's rising tone.
-* **0:45:** Student uses a flat intonation on "on" instead of the expert's rising tone.
-* **0:46:** Student uses a falling intonation on "the" instead of the expert's rising tone.
-* **0:47:** Student uses a flat intonation on "brands" instead of the expert's rising tone.
-* **0:48:** Student uses a falling intonation on "and" instead of the expert's rising tone.
-* **0:49:** Student uses a flat intonation on "features" instead of the expert's rising tone.
-* **0:50:** Student uses a falling intonation on "Smartphones" instead of the expert's rising tone.
-* **0:51:** Student uses a falling intonation on "have" instead of the expert's rising tone.
-* **0:52:** Student uses a falling intonation on "faster" instead of the expert's rising tone.
-* **0:53:** Student uses a flat intonation on "connectivity" instead of the expert's rising tone.
-* **0:54:** Student uses a flat intonation on "than" instead of the expert's rising tone.
-* **0:55:** Student uses a flat intonation on "other" instead of the expert's rising tone.
-* **0:56:** Student uses a flat intonation on "phone" instead of the expert's rising tone.
-* **0:57:** Student uses a flat intonation on "models" instead of the expert's rising tone.
-* **0:58:** Student uses a falling intonation on "The" instead of the expert's rising tone.
-* **0:59:** Student uses a flat intonation on "process" instead of the expert's rising tone.
-* **1:00:** Student uses a flat intonation on "is" instead of the expert's rising tone.
-* **1:01:** Student uses a flat intonation on "not" instead of the expert's rising tone.
-* **1:02:** Student uses a falling intonation on "hampered" instead of the expert's rising tone.
-* **1:03:** Student uses a flat intonation on "by" instead of the expert's rising tone.
-* **1:04:** Student uses a falling intonation on "the" instead of the expert's rising tone.
-* **1:05:** Student uses a flat intonation on "distance" instead of the expert's rising tone.
-* **1:06:** Student uses a flat intonation on "or" instead of the expert's rising tone.
-* **1:07:** Student uses a falling intonation on "the" instead of the expert's rising tone.
-* **1:08:** Student uses a flat intonation on "different" instead of the expert's rising tone.
-* **1:09:** Student uses a flat intonation on "time" instead of the expert's rising tone.
-* **1:10:** Student uses a flat intonation on "zones" instead of the expert's rising tone.
-* **1:11:** Student uses a falling intonation on "A" instead of the expert's rising tone.
-* **1:12:** Student uses a falling intonation on "smartphone" instead of the expert's rising tone.
-* **1:13:** Student uses a falling intonation on "differs" instead of the expert's rising tone.
-* **1:14:** Student uses a flat intonation on "from" instead of the expert's rising tone.
-* **1:15:** Student uses a falling intonation on "regular" instead of the expert's rising tone.
-* **1:16:** Student uses a flat intonation on "phones" instead of the expert's rising tone.
-* **1:17:** Student uses a flat intonation on "because" instead of the expert's rising tone.
-* **1:18:** Student uses a flat intonation on "of" instead of the expert's rising tone.
-* **1:19:** Student uses a flat intonation on "its" instead of the expert's rising tone.
-* **1:20:** Student uses a falling intonation on "special" instead of the expert's rising tone.
-* **1:21:** Student uses a flat intonation on "capabilities" instead of the expert's rising tone.
-* **1:22:** Student uses a flat intonation on "which" instead of the expert's rising tone.
-* **1:23:** Student uses a falling intonation on "include" instead of the expert's rising tone.
-* **1:24:** Student uses a flat intonation on "new" instead of the expert's rising tone.
-* **1:25:** Student uses a flat intonation on "icon" instead of the expert's rising tone.
-* **1:26:** Student uses a flat intonation on "games" instead of the expert's rising tone.
-* **1:27:** Student uses a flat intonation on "calls" instead of the expert's rising tone.
-* **1:28:** Student uses a flat intonation on "chats" instead of the expert's rising tone.
-* **1:29:** Student uses a flat intonation on "video" instead of the expert's rising tone.
-* **1:30:** Student uses a flat intonation on "calls" instead of the expert's rising tone.
-* **1:31:** Student uses a flat intonation on "cameras" instead of the expert's rising tone.
-* **1:32:** Student uses a flat intonation on "touch" instead of the expert's rising tone.
-* **1:33:** Student uses a flat intonation on "screens" instead of the expert's rising tone.
-* **1:34:** Student uses a flat intonation on "emailing" instead of the expert's rising tone.
-* **1:35:** Student uses a flat intonation on "storage" instead of the expert's rising tone.
-* **1:36:** Student uses a flat intonation on "etcetera" instead of the expert's rising tone.
-* **1:37:** Student uses a falling intonation on "It" instead of the expert's rising tone.
-* **1:38:** Student uses a falling intonation on "includes" instead of the expert's rising tone.
-* **1:39:** Student uses a flat intonation on "a" instead of the expert's rising tone.
-* **1:40:** Student uses a flat intonation on "joystick" instead of the expert's rising tone.
-* **1:41:** Student uses a flat intonation on "wireless" instead of the expert's rising tone.
-* **1:42:** Student uses a flat intonation on "earbuds" instead of the expert's rising tone.
-* **1:43:** Student uses a flat intonation on "and" instead of the expert's rising tone.
-* **1:44:** Student uses a flat intonation on "a" instead of the expert's rising tone.
-* **1:45:** Student uses a flat intonation on "host" instead of the expert's rising tone.
-* **1:46:** Student uses a flat intonation on "of" instead of the expert's rising tone.
-* **1:47:** Student uses a flat intonation on "other" instead of the expert's rising tone.
-* **1:48:** Student uses a flat intonation on "attachments" instead of the expert's rising tone.
-* **1:49:** Student uses a flat intonation on "that" instead of the expert's rising tone.
-* **1:50:** Student uses a flat intonation on "enhance" instead of the expert's rising tone.
-* **1:51:** Student uses a flat intonation on "the" instead of the expert's rising tone.
-* **1:52:** Student uses a flat intonation on "smartphone" instead of the expert's rising tone.
-* **1:53:** Student uses a flat intonation on "experience" instead of the expert's rising tone.
-* **1:54:** Student uses a falling intonation on "It" instead of the expert's rising tone.
-* **1:55:** Student uses a falling intonation on "is" instead of the expert's rising tone.
-* **1:56:** Student uses a falling intonation on "a" instead of the expert's rising tone.
-* **1:57:** Student uses a flat intonation on "revolution" instead of the expert's rising tone.
-* **1:58:** Student uses a flat intonation on "for" instead of the expert's rising tone.
-* **1:59:** Student uses a falling intonation on "the" instead of the expert's rising tone.
-* **2:00:** Student uses a flat intonation on "world" instead of the expert's rising tone.
-* **2:01:** Student uses a flat intonation on "that" instead of the expert's rising tone.
-* **2:02:** Student uses a flat intonation on "would" instead of the expert's rising tone.
-* **2:03:** Student uses a flat intonation on "keep" instead of the expert's rising tone.
-* **2:04:** Student uses a flat intonation on "everyone" instead of the expert's rising tone.
-* **2:05:** Student uses a flat intonation on "connected" instead of the expert's rising tone.
-* **2:06:** Student uses a falling intonation on "Some" instead of the expert's rising tone.
-* **2:07:** Student uses a flat intonation on "of" instead of the expert's rising tone.
-* **2:08:** Student uses a falling intonation on "the" instead of the expert's rising tone.
-* **2:09:** Student uses a flat intonation on "benefits" instead of the expert's rising tone.
-* **2:10:** Student uses a flat intonation on "for" instead of the expert's rising tone.
-* **2:11:** Student uses a falling intonation on "a" instead of the expert's rising tone.
-* **2:12:** Student uses a falling intonation on "smartphone" instead of the expert's rising tone.
-* **2:13:** Student uses a flat intonation on "includes" instead of the expert's rising tone.
-* **2:14:** Student uses a flat intonation on "simple" instead of the expert's rising tone.
-* **2:15:** Student uses a flat intonation on "communication" instead of the expert's rising tone.
-* **2:16:** Student uses a flat intonation on "portability" instead of the expert's rising tone.
-* **2:17:** Student uses a flat intonation on "entertainment" instead of the expert's rising tone.
-* **2:18:** Student uses a flat intonation on "the" instead of the expert's rising tone.
-* **2:19:** Student uses a flat intonation on "capacity" instead of the expert's rising tone.
-* **2:20:** Student uses a flat intonation on "to" instead of the expert's rising tone.
-* **2:21:** Student uses a flat intonation on "book" instead of the expert's rising tone.
-* **2:22:** Student uses a flat intonation on "hotels" instead of the expert's rising tone.
-* **2:23:** Student uses a flat intonation on "flights" instead of the expert's rising tone.
-* **2:24:** Student uses a flat intonation on "and" instead of the expert's rising tone.
-* **2:25:** Student uses a flat intonation on "other" instead of the expert's rising tone.
-* **2:26:** Student uses a flat intonation on "travel" instead of the expert's rising tone.
-* **2:27:** Student uses a flat intonation on "related" instead of the expert's rising tone.
-* **2:28:** Student uses a flat intonation on "events" instead of the expert's rising tone.
-* **2:29:** Student uses a flat intonation on "as" instead of the expert's rising tone.
-* **2:30:** Student uses a flat intonation on "well" instead of the expert's rising tone.
-* **2:31:** Student uses a flat intonation on "as" instead of the expert's rising tone.
-* **2:32:** Student uses a flat intonation on "the" instead of the expert's rising tone.
-* **2:33:** Student uses a flat intonation on "ability" instead of the expert's rising tone.
-* **2:34:** Student uses a flat intonation on "to" instead of the expert's rising tone.
-* **2:35:** Student uses a flat intonation on "take" instead of the expert's rising tone.
-* **2:36:** Student uses a flat intonation on "tests" instead of the expert's rising tone.
-* **2:37:** Student uses a flat intonation on "and" instead of the expert's rising tone.
-* **2:38:** Student uses a flat intonation on "attend" instead of the expert's rising tone.
-* **2:39:** Student uses a flat intonation on "classes" instead of the expert's rising tone.
-* **2:40:** Student uses a falling intonation on "However" instead of the expert's rising tone.
-* **2:41:** Student uses a falling intonation on "there" instead of the expert's rising tone.
-* **2:42:** Student uses a flat intonation on "are" instead of the expert's rising tone.
-* **2:43:** Student uses a flat intonation on "some" instead of the expert's rising tone.
-* **2:44:** Student uses a flat intonation on "drawbacks" instead of the expert's rising tone.
-* **2:45:** Student uses a flat intonation on "as" instead of the expert's rising tone.
-* **2:46:** Student uses a flat intonation on "well" instead of the expert's rising tone.
-* **2:47:** Student uses a flat intonation on "such" instead of the expert's rising tone.
-* **2:48:** Student uses a flat intonation on "as" instead of the expert's rising tone.
-* **2:49:** Student uses a flat intonation on "impaired" instead of the expert's rising tone.
-* **2:50:** Student uses a flat intonation on "vision" instead of the expert's rising tone.
-* **2:51:** Student uses a flat intonation on "decreased" instead of the expert's rising tone.
-* **2:52:** Student uses a flat intonation on "focus" instead of the expert's rising tone.
-* **2:53:** Student uses a flat intonation on "increased" instead of the expert's rising tone.
-* **2:54:** Student uses a flat intonation on "distraction" instead of the expert's rising tone.
-* **2:55:** Student uses a flat intonation on "addiction" instead of the expert's rising tone.
-* **2:56:** Student uses a flat intonation on "and" instead of the expert's rising tone.
-* **2:57:** Student uses a flat intonation on "misuse" instead of the expert's rising tone.
-* **2:58:** Student uses a falling intonation on "Like" instead of the expert's rising tone.
-* **2:59:** Student uses a falling intonation on "any" instead of the expert's rising tone.
-* **3:00:** Student uses a flat intonation on "other" instead of the expert's rising tone.
-* **3:01:** Student uses a flat intonation on "resource" instead of the expert's rising tone.
-* **3:02:** Student uses a flat intonation on "a" instead of the expert's rising tone.
-* **3:03:** Student uses a flat intonation on "smartphone" instead of the expert's rising tone.
-* **3:04:** Student uses a flat intonation on "should" instead of the expert's rising tone.
-* **3:05:** Student uses a flat intonation on "also" instead of the expert's rising tone.
-* **3:06:** Student uses a flat intonation on "be" instead of the expert's rising tone.
-* **3:07:** Student uses a flat intonation on "used" instead of the expert's rising tone.
-* **3:08:** Student uses a flat intonation on "responsibly" instead of the expert's rising tone.
-* **3:09:** Student uses a flat intonation on "to" instead of the expert's rising tone.
-* **3:10:** Student uses a flat intonation on "prevent" instead of the expert's rising tone.
-* **3:11:** Student uses a flat intonation on "unfavorable" instead of the expert's rising tone.
-* **3:12:** Student uses a flat intonation on "outcomes" instead of the expert's rising tone.
-* **3:13:** Student uses a flat intonation on "Any" instead of the expert's rising tone.
-* **3:14:** Student uses a flat intonation on "benefit" instead of the expert's rising tone.
-* **3:15:** Student uses a flat intonation on "might" instead of the expert's rising tone.
-* **3:16:** Student uses a flat intonation on "become" instead of the expert's rising tone.
-* **3:17:** Student uses a flat intonation on "a" instead of the expert's rising tone.
-* **3:18:** Student uses a flat intonation on "liability" instead of the expert's rising tone.
-* **3:19:** Student uses a flat intonation on "if" instead of the expert's rising tone.
-* **3:20:** Student uses a flat intonation on "not" instead of the expert's rising tone.
-* **3:21:** Student uses a flat intonation on "used" instead of the expert's rising tone.
-* **3:22:** Student uses a flat intonation on "properly" instead of the expert's rising tone.
+**Total Chunking Mistakes: 7**
 
-**Analysis:**
+The student's performance is categorized as **Emergent** as they made more than 60% chunking errors. 
+Intonation Report
+Bucket: Emergent
+The student consistently uses a flat tone throughout the recording, neglecting to employ rising and falling tones in most instances. 
 
-The student demonstrates very few clear rising or falling tones throughout the recording. In over 90% of instances, the intonation is flat or deviates from the expert's pattern. The lack of clear intonation makes the speech sound monotonous and lacks the natural flow and emphasis found in the expert's rendition. This performance is therefore categorized as **Emergent**. 
+Deviations from the expert's intonation:
+
+- **Overall flat tone:**  The student uses a monotone throughout the recording, lacking the clear rising and falling tones present in the expert's delivery. This can be observed throughout the recording.
+- **"a smartphone"** (0:00):  The expert's intonation rises on the word "smartphone," then falls on the word "is." The student uses a flat tone.
+- **"that combines"** (0:01):  The expert's intonation rises on "that" and falls on "combines." The student uses a flat tone.
+- **"features include"** (0:09): The expert's intonation rises on "features" and falls on "include." The student uses a flat tone.
+- **"the process"** (0:44): The expert's intonation rises on "the" and falls on "process." The student uses a flat tone.
+- **"which include"** (0:57): The expert's intonation rises on "which" and falls on "include." The student uses a flat tone.
+
+These examples demonstrate the student's consistent use of a flat tone, lacking the rising and falling tones used by the expert. The student’s intonation does not follow the expert's rendering. 
 Fluency Report
 Bucket: Transitional
 Following lines:
-00:04 - Student took a pause longer than 1 second before continuing with "The smartphone." Suggestion: Practice reading the text smoothly without pausing at this point. 
-00:16 - Student paused for a long duration before speaking "Mobility playing." Suggestion: Practice transitioning from "mobility" to "playing" without any pause.
-00:26 -  Student paused for a long duration before speaking "smartphones are." Suggestion: Practice transitioning from "etc" to "smartphones are" smoothly without any pause. 
-00:43 - Student paused for a long duration before speaking "features include." Suggestion: Practice reading the text smoothly without pausing at this point.
-01:07 -  Student paused for a long duration before speaking " impaired vision." Suggestion: Practice transitioning from "as well, such" to "as impaired vision" smoothly without any pause.
-01:52 -  Student paused for a long duration before speaking "as well." Suggestion: Practice transitioning from "drawbacks" to "as well" smoothly without any pause.
-02:12 - Student paused for a long duration before speaking "and misused." Suggestion: Practice reading the text smoothly without pausing at this point. Reading Speed Report
+0:00-0:01 - The student starts with a long pause.  
+Suggestion: Practice starting the recording with a little breathing exercise, to avoid the pause.
+0:03-0:04 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:05-0:06 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:06-0:07 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:09-0:10 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:12-0:13 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:14-0:15 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:16-0:17 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:21-0:22 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:25-0:26 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:29-0:30 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:34-0:35 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:38-0:39 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:42-0:43 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:47-0:48 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:50-0:51 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:52-0:53 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:55-0:56 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+0:57-0:58 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:00-1:01 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:01-1:02 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:02-1:03 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:04-1:05 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:07-1:08 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:10-1:11 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:12-1:13 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:16-1:17 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:17-1:18 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:18-1:19 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:22-1:23 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:23-1:24 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:25-1:26 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:26-1:27 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:28-1:29 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:29-1:30 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:30-1:31 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:31-1:32 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:32-1:33 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:35-1:36 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:37-1:38 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:39-1:40 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:42-1:43 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:44-1:45 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:45-1:46 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:46-1:47 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:49-1:50 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:51-1:52 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:52-1:53 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:53-1:54 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:54-1:55 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:57-1:58 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+1:59-2:00 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:00-2:01 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:01-2:02 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:02-2:03 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:04-2:05 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:05-2:06 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:07-2:08 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:08-2:09 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:11-2:12 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:14-2:15 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:16-2:17 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:17-2:18 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:19-2:20 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:20-2:21 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:21-2:22 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:23-2:24 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:24-2:25 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:25-2:26 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:27-2:28 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:28-2:29 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:29-2:30 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+2:30-2:31 - The student takes a longer pause than required. 
+Suggestion: Try to avoid taking such long pauses and learn to connect words together smoothly.
+Reading Speed Report
 Bucket: Emergent
 
-The student reads significantly slower than the expert, with a notable deviation in pace. The expert reads at an average rate of approximately 175 words per minute, while the student reads at an average rate of approximately 100 words per minute. This slower pace is consistent throughout the recording, making the student's performance categorized as Emergent. 
+The student's reading speed is significantly slower than the expert's. The student takes approximately 2.3 seconds per word, while the expert takes 1.3 seconds per word. This indicates a considerable pace difference between the student and the expert. 
+
+The student also frequently pauses between words, affecting the overall fluency and comprehension of the passage. The slow pace is noticeable from the first few words and persists throughout the entire reading. This could be attributed to difficulties in pronunciation, decoding, or lack of practice.  
+
+The student's reading performance falls within the "Emergent" category due to the significant speed difference and frequent pauses, highlighting a need for further practice and guidance to improve their reading fluency and speed. 

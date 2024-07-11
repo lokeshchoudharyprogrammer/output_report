@@ -1,166 +1,156 @@
 Pronunciation Report
 Bucket: Emergent
-Mispronounced Words: 17
-Benefits: Pronounced as "benifits"
-Smartphone: Pronounced as "smart phone"
-Includes: Pronounced as "includes"
-Simple: Pronounced as "simply"
-Communication: Pronounced as "comminication"
-Portability: Pronounced as "probity"
-Entertainment: Pronounced as "internment"
-Capacity: Pronounced as "capasity"
-Book: Pronounced as "book"
-Hotels: Pronounced as "hotells"
-Flights: Pronounced as "flytes"
-Travel: Pronounced as "travell"
-Related: Pronounced as "relater"
-Events: Pronounced as "events"
-Ability: Pronounced as "abililty"
-Take: Pronounced as "make"
-Tests: Pronounced as "test"
-Attend: Pronounced as "attent"
-Drawbacks: Pronounced as "draw backs"
-Impaired: Pronounced as "impaired"
-Vision: Pronounced as "vision" 
-Decreased: Pronounced as "discrayed"
-Focus: Pronounced as "focus"
-Increased: Pronounced as "incrased"
-Distraction: Pronounced as "destruction"
-Addiction: Pronounced as "addiction"
-Misuse: Pronounced as "miss use"
-Resource: Pronounced as "risorse"
-Smartphone: Pronounced as "smart phone"
-Should: Pronounced as "shod"
-Also: Pronounced as "also"
-Used: Pronounced as "used"
-Probably: Pronounced as "probily"
-Responsibly: Pronounced as "responsibly"
-Prevent: Pronounced as "prevent"
-Unfavorable: Pronounced as "unfavorable"
-Outcomes: Pronounced as "outcomes"
-Benefit: Pronounced as "benifit"
-Might: Pronounced as "might"
-Come: Pronounced as "com"
-Liability: Pronounced as "layability" 
-Not: Pronounced as "not" 
-Used: Pronounced as "used"
-Properly: Pronounced as "properly" 
+Mispronounced Words: 20
+Benefits: Pronounced as "Benefets"
+Smartphone: Pronounced as "Smart Phone"
+Includes: Pronounced as "In-cludes"
+Simple: Pronounced as "Simple"
+Communication: Pronounced as "Communi-ca-tion"
+Portability: Pronounced as "Pro-ba-bi-li-ty"
+Entertainment: Pronounced as "Inter-tainment"
+Capacity: Pronounced as "Capa-city"
+Hotels: Pronounced as "Hot-els"
+Flights: Pronounced as "F-lights"
+Travel: Pronounced as "Tra-vel"
+Related: Pronounced as "Rela-ted"
+Events: Pronounced as "E-vents"
+Well: Pronounced as "Well"
+Ability: Pronounced as "Abi-li-ty"
+Make: Pronounced as "May-ke"
+Take: Pronounced as "T-ake"
+Tests: Pronounced as "Test"
+Attend: Pronounced as "A-tend"
+Classes: Pronounced as "Cla-sses"
+However: Pronounced as "How-ever"
+There: Pronounced as "There"
+Are: Pronounced as "Are"
+Drawbacks: Pronounced as "Draw-backs"
+As: Pronounced as "As"
+Well: Pronounced as "Well"
+Such: Pronounced as "Such"
+As: Pronounced as "As"
+Impaired: Pronounced as "Im-paired"
+Vision: Pronounced as "V-ision"
+Decreased: Pronounced as "Dis-cray-ded"
+Focus: Pronounced as "Focus"
+Increased: Pronounced as "In-creased"
+Distraction: Pronounced as "Dis-track-tion"
+Addiction: Pronounced as "A-dic-tion"
+Misuse: Pronounced as "Mis-use"
+Like: Pronounced as "Like"
+Any: Pronounced as "Any"
+Other: Pronounced as "Other"
+Resource: Pronounced as "Re-source"
+Smartphone: Pronounced as "Smart Phone"
+Should: Pronounced as "Should"
+Also: Pronounced as "Also"
+Be: Pronounced as "Be"
+Used: Pronounced as "Used"
+Probably: Pronounced as "Pro-ba-bly"
+Responsibly: Pronounced as "Responsibly"
+Prevent: Pronounced as "Pre-vent"
+Unfavorable: Pronounced as "Un-fa-vor-able"
+Outcomes: Pronounced as "Out-comes"
+Any: Pronounced as "Any"
+Benefit: Pronounced as "Ben-efit"
+Might: Pronounced as "Might"
+Become: Pronounced as "Come"
+Liability: Pronounced as "Lay-a-bi-li-ty"
+If: Pronounced as "If"
+Not: Pronounced as "Not"
+Used: Pronounced as "Used"
+Properly: Pronounced as "Pro-per-ly" 
 Chunking Report
 Bucket: **Emergent**
 Chunking Mistakes and Corrections
 
-1. **Student:**  Some of the benefits of a smartphone includes simple communication portability entertainment the capacity to book hotels flights and other travel related events as well as the ability to take tests and attend classes.
-**Expert:** Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights and other travel-related events, as well as the ability to take tests and attend classes.
+1. "Some of the benefits" **(student)**
+    "Some of the benefits" **(expert)**
+2. "of a smart phone includes simple communication" **(student)**
+    "of a smartphone includes simple communication" **(expert)**
+3. "portability entertainment" **(student)**
+    "portability, entertainment" **(expert)**
+4. "the capacity to book hotels flights" **(student)**
+    "the capacity to book hotels, flights" **(expert)**
+5. "and other travel related events as well as the ability to take test and attend classes" **(student)**
+    "and other travel-related events as well as the ability to take tests and attend classes" **(expert)**
+6. "However there are some drawbacks as well such as impaired vision decreased focus" **(student)**
+    "However, there are some drawbacks as well, such as impaired vision, decreased focus" **(expert)**
+7. "increased distraction addiction and misuse" **(student)**
+    "increased distraction, addiction, and misuse" **(expert)**
+8. "Like any other resource a smartphone" **(student)**
+    "Like any other resource, a smartphone" **(expert)**
+9. "should also be used responsibly to prevent unfavorable outcomes" **(student)**
+    "should also be used responsibly to prevent unfavorable outcomes" **(expert)**
+10. "Any benefit might become a liability if not used properly" **(student)**
+    "Any benefit might become a liability if not used properly." **(expert)**
 
-2. **Student:** However there are some drawbacks as well such as impaired vision decreased focus increased distraction addiction and misuse.
-**Expert:** However, there are some drawbacks as well such as impaired vision, decreased focus, increased distraction, addiction and misuse.
-
-3. **Student:** Like any other resource a smartphone should also be used probably responsibly to prevent unfavorable outcomes.
-**Expert:** Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes.
-
-4. **Student:** Any benefit might become a liability if not used properly.
-**Expert:** Any benefit might become a liability if not used properly. 
-
-**Total Number of Chunking Errors: 4**
-
-**Analysis:** The student demonstrated significant challenges in chunking sentences correctly. They failed to chunk appropriately in all instances, exceeding the 60% threshold for emergent performance. 
+The student has made 10 chunking mistakes in a total of 16 sentences. This represents more than 60% chunking errors, hence the student's performance is categorized as **Emergent**. 
 ## Intonation Report
+
 Bucket: **Emergent**
 
-**Deviations from expert's intonation:**
+**Detailed List of Deviations:**
 
-* **0:06-0:08:** Student uses a rising tone instead of a falling tone at the end of "benefit,"  "of a," and "smartphone." 
-* **0:13-0:15:** Student uses a rising tone instead of a falling tone at the end of "communication," "portability," and "entertainment." 
-* **0:17-0:19:** Student uses a rising tone instead of a falling tone at the end of "the capability to," "book hotels," and "flights." 
-* **0:20-0:24:** Student uses a rising tone instead of a falling tone at the end of "related events," "as well as the," "the ability," "take tests," and "attend classes." 
-* **0:27-0:29:** Student uses a rising tone instead of a falling tone at the end of "are some drawbacks," "as well," and "such as."
-* **0:31-0:33:** Student uses a rising tone instead of a falling tone at the end of "impaired vision," "decreased focus," and "increased distraction." 
-* **0:35-0:37:** Student uses a rising tone instead of a falling tone at the end of "misuse," "any other resource," "smartphone." 
-* **0:40-0:42:** Student uses a rising tone instead of a falling tone at the end of "should also be used," "responsibly," and "unfavorable outcomes." 
-* **0:43-0:45:** Student uses a rising tone instead of a falling tone at the end of "benefit," "might become," and "liability."
-* **0:47-0:49:** Student uses a rising tone instead of a falling tone at the end of "not used," "properly," and "not used properly."
+* **0:07:** The student incorrectly uses a rising tone at the end of the phrase "benefits of a smartphone" while the expert uses a falling tone. 
+* **0:08:** The student uses a rising tone at the end of the phrase "includes simple communication" while the expert uses a falling tone. 
+* **0:11:** The student uses a rising tone at the end of the phrase "entertainment the capacity" while the expert uses a falling tone. 
+* **0:14:** The student uses a rising tone at the end of the phrase "and other travel-related events" while the expert uses a falling tone.
+* **0:15:** The student uses a rising tone at the end of the phrase "as well as the ability to take tests" while the expert uses a falling tone.
+* **0:18:** The student uses a rising tone at the end of the phrase "are some drawbacks as well" while the expert uses a falling tone.
+* **0:21:** The student uses a rising tone at the end of the phrase "such as impaired vision" while the expert uses a falling tone.
+* **0:25:** The student uses a rising tone at the end of the phrase "increased distraction" while the expert uses a falling tone.
+* **0:26:** The student uses a rising tone at the end of the phrase "and misuse" while the expert uses a falling tone.
+* **0:29:** The student uses a rising tone at the end of the phrase "any other resource a smartphone" while the expert uses a falling tone.
+* **0:34:** The student uses a rising tone at the end of the phrase "also be used responsibly" while the expert uses a falling tone.
+* **0:38:** The student uses a rising tone at the end of the phrase "unfavorable outcomes" while the expert uses a falling tone. 
+* **0:40:** The student uses a rising tone at the end of the phrase "any benefit might become a liability" while the expert uses a falling tone.
+* **0:41:** The student uses a rising tone at the end of the phrase "if not used properly" while the expert uses a falling tone.
 
-**Overall, the student demonstrates inconsistent use of rising and falling tones throughout the recording.  While there are some instances where the student accurately utilizes the intonational pattern, these are not frequent enough to reach the "Transitional" level of performance. The student consistently uses a rising tone where a falling tone is expected, demonstrating a need for further practice in this area.** 
-Fluency Report
-Bucket: Emergent
-00:00 - 00:01: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:01 - 00:02: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:02 - 00:03: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:03 - 00:04: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:04 - 00:05: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:06 - 00:07: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:07 - 00:08: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:08 - 00:09: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:10 - 00:11: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:11 - 00:12: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:12 - 00:13: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:14 - 00:15: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:15 - 00:16: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:16 - 00:17: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:17 - 00:18: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:18 - 00:19: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:20 - 00:21: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:21 - 00:22: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:22 - 00:23: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:23 - 00:24: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:25 - 00:26: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:27 - 00:28: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:28 - 00:29: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:29 - 00:30: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:30 - 00:31: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:31 - 00:32: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:32 - 00:33: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:34 - 00:35: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:35 - 00:36: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:36 - 00:37: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:37 - 00:38: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:38 - 00:39: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:40 - 00:41: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:41 - 00:42: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:42 - 00:43: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:43 - 00:44: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:45 - 00:46: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:46 - 00:47: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:47 - 00:48: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:48 - 00:49: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:49 - 00:50: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:50 - 00:51: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:51 - 00:52: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:52 - 00:53: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:53 - 00:54: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:54 - 00:55: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:55 - 00:56: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:56 - 00:57: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:57 - 00:58: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:58 - 00:59: More than 1 second pause; Consider slowing down to ensure comprehension.
-00:59 - 01:00: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:00 - 01:01: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:01 - 01:02: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:02 - 01:03: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:03 - 01:04: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:04 - 01:05: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:05 - 01:06: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:06 - 01:07: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:07 - 01:08: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:08 - 01:09: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:09 - 01:10: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:10 - 01:11: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:11 - 01:12: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:12 - 01:13: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:13 - 01:14: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:14 - 01:15: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:15 - 01:16: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:16 - 01:17: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:17 - 01:18: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:18 - 01:19: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:19 - 01:20: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:20 - 01:21: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:21 - 01:22: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:22 - 01:23: More than 1 second pause; Consider slowing down to ensure comprehension.
-01:23 - 01:24: More than 1 second pause; Consider slowing down to ensure comprehension.
+**Analysis:** 
+
+The student's intonation deviates significantly from the expert's rendition in at least 15 instances, well exceeding the threshold for "Emergent" performance. The student tends to use rising tones at the end of phrases where the expert uses falling tones. This indicates a lack of understanding of proper intonation patterns in English, potentially stemming from first language influence or insufficient exposure to native English speech.  
+## Fluency Report
+Bucket: **Emergent** 
+
+The student's fluency is categorized as emergent, as they exhibit more than 3 pauses longer than 1 second per minute of speech. 
+
+Here are specific instances where the student deviates from the expert's rendition, with suggestions for improvement:
+
+* **00:00 - 00:03:** The student takes a significant pause at the beginning, adding unnecessary silence. It is recommended to practice the opening line to gain confidence and reduce hesitation.
+* **00:06 - 00:08:** The student takes a long pause before uttering "of the benefits". It appears the student is struggling with the pronunciation of "benefits". Practicing this word in isolation and then in the context of the sentence would help.
+* **00:10 - 00:13:** The student pauses for an extended period, struggling to recall the word "communication". It is recommended to review the script and practice difficult vocabulary.
+* **00:13 - 00:15:** The student takes a long pause before saying "portability". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:15 - 00:18:** The student takes a long pause before saying "internet".  Practice the word "internet" to improve pronunciation.
+* **00:19 - 00:21:** The student takes a long pause before uttering "entertainment". Practice the word "entertainment" to improve pronunciation.
+* **00:20 - 00:23:** The student takes a long pause before saying "capacity". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly.
+* **00:23 - 00:25:** The student takes a long pause before uttering "to book hotels". It appears the student is struggling with the word "hotels". Practice pronouncing it correctly.
+* **00:25 - 00:27:** The student takes a long pause before saying "flights". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:28 - 00:30:** The student takes a long pause before saying "travel-related". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:30 - 00:32:** The student takes a long pause before saying "events". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:32 - 00:35:** The student takes a long pause before saying "ability". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:35 - 00:37:** The student takes a long pause before saying "tests". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:38 - 00:41:** The student takes a long pause before saying "classes". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:40 - 00:43:** The student takes a long pause before saying "however". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:42 - 00:44:** The student takes a long pause before saying "drawbacks". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:43 - 00:46:** The student takes a long pause before saying "as well". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:45 - 00:48:** The student takes a long pause before saying "such as". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:47 - 00:50:** The student takes a long pause before saying "impaired vision". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:49 - 00:51:** The student takes a long pause before saying "decreased focus". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:51 - 00:53:** The student takes a long pause before saying "increased distraction". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:53 - 00:55:** The student takes a long pause before saying "addiction". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:55 - 00:57:** The student takes a long pause before saying "misuse". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **00:56 - 00:59:** The student takes a long pause before saying "like any other resource". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **00:59 - 01:01:** The student takes a long pause before saying "a smartphone". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency.
+* **01:01 - 01:03:** The student takes a long pause before saying "should also be used". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **01:03 - 01:05:** The student takes a long pause before saying "responsibly". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **01:05 - 01:07:** The student takes a long pause before saying "to prevent unfavorable". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **01:07 - 01:09:** The student takes a long pause before saying "outcomes". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **01:09 - 01:12:** The student takes a long pause before saying "any benefit might become a liability". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+* **01:12 - 01:14:** The student takes a long pause before saying "if not used properly". It appears the student struggles with the pronunciation of this word. Practice pronouncing it correctly to improve fluency. 
+
+The student's performance indicates a need for further practice and support in improving fluency and pronunciation. This can be achieved through deliberate practice, focused on the areas identified above, and engaging in regular reading and speaking activities. 
 Reading Speed Report
 Bucket: **Emergent**
 
-The student's reading speed is significantly slower than the expert's. While the expert read the text at a pace of approximately 150 words per minute, the student's pace was around 75 words per minute. 
-
-The student exhibited noticeable hesitations and pauses throughout the reading, particularly when encountering longer words and phrases. This frequent pausing and slow reading rate significantly impacted the overall flow and comprehension of the text. Additionally, the student struggled with pronunciation, mispronouncing several words, which further slowed down the reading pace. 
+The student's reading speed is significantly slower than the expert's. The student reads at an average rate of 118 words per minute, while the expert reads at 212 words per minute. The student's pacing is significantly slower throughout the entire reading, particularly noticeable in the student's frequent pauses and hesitations, which are not present in the expert's recording. The student also struggles with pronunciation, as evidenced by their mispronunciation of words like "probability," "entertainment," and "liability," leading to a slower pace. 

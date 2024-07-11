@@ -1,193 +1,202 @@
 Pronunciation Report
 Bucket: Transitional
-Mispronounced Words: 22
-Essential: Pronounced as "estil"
-Integrated: Pronounced as "Intergeted"
-Mobility: Pronounced as "Mobalility"
-Features: Pronounced as "Fewchurs"
-Includes: Pronounced as "Inkloods"
-Internet: Pronounced as "Internet"
-Computer: Pronounced as "Computer"
-Connectivity: Pronounced as "Konstitutive"
-Widely: Pronounced as "Writely"
-Purchased: Pronounced as "Purchassed"
-Variety: Pronounced as "Veriety"
-Depending: Pronounced as "Dependign"
-Faster: Pronounced as "Faster"
-Connectivity: Pronounced as "Konsituvity"
-Models: Pronounced as "Models"
-Process: Pronounced as "Process"
-Hampered: Pronounced as "Hapen"
-Distance: Pronounced as "Distans"
-Different: Pronounced as "Diferent"
-Time: Pronounced as "Time"
-Differs: Pronounced as "Difers"
-Regular: Pronounced as "Regular"
-Because: Pronounced as "Bcoz"
-Special: Pronounced as "Special"
-Capabilities: Pronounced as "Capabiliti"
-Includes: Pronounced as "Inkloods"
-Icon: Pronounced as "Ikon"
-Joystick: Pronounced as "Joystick"
-Wireless: Pronounced as "Wireless"
-Earbuds: Pronounced as "Airbuds"
-Host: Pronounced as "Host"
-Attachments: Pronounced as "Attachmen"
-Enhance: Pronounced as "Enhans"
-Smartphone: Pronounced as "Smartphone"
-Experience: Pronounced as "Expensisive"
-Revolution: Pronounced as "Rivoltion"
-Would: Pronounced as "Wud"
-Keep: Pronounced as "Keep"
-Everyone: Pronounced as "Eviwon"
-Connected: Pronounced as "Connected"
-Benefits: Pronounced as "Benefets"
-Simple: Pronounced as "Simple"
-Communication: Pronounced as "Communication"
-Portability: Pronounced as "Protabliti"
-Entertainment: Pronounced as "Entertainmen"
-Capacity: Pronounced as "Capaeity"
-Hotels: Pronounced as "Hotals"
-Flights: Pronounced as "Figurs"
-Travel: Pronounced as "Travel"
-Related: Pronounced as "Related"
-Ability: Pronounced as "Abliti"
-Tests: Pronounced as "Test"
-Attend: Pronounced as "Attend"
-However: Pronounced as "However"
-Drawbacks: Pronounced as "Downbacks"
-Impaired: Pronounced as "Impaired"
-Vision: Pronounced as "Version"
-Decreased: Pronounced as "Decreased"
-Focus: Pronounced as "Force"
-Increased: Pronounced as "Increased"
-Distraction: Pronounced as "Directions"
-Addiction: Pronounced as "Addiction"
-Misuse: Pronounced as "Missue"
-Resource: Pronounced as "Resource"
-Should: Pronounced as "Should"
-Responsibly: Pronounced as "Resposibility"
-Prevent: Pronounced as "Prevent"
-Unfavorable: Pronounced as "Unferable"
-Outcomes: Pronounced as "Outcomes"
-Benefit: Pronounced as "Benefit"
-Liability: Pronounced as "Laboratori" 
-Properly: Pronounced as "Properly" 
-Chunking Report
+Mispronounced Words: 14
+Essential: Pronounced as "E-steel"
+Integrated: Pronounced as "In-ter-je-ted"
+Mobility: Pronounced as "Mo-bail-i-ty"
+Features: Pronounced as "Few-tures"
+Computer: Pronounced as "Con-sti-tu-tive"
+Widely: Pronounced as "White-ly"
+Purchased: Pronounced as "Pur-chaised"
+Variety: Pronounced as "Va-ri-ety"
+Rates: Pronounced as "Rich"
+Brands: Pronounced as "Branch"
+Connectivity: Pronounced as "Con-si-tu-tive"
+Models: Pronounced as "Mo-bal"
+Process: Pronounced as "Pro-cess"
+Different: Pronounced as "Dif-rent"
+Unfavorable: Pronounced as "Un-fair-able" 
+Liability: Pronounced as "Labo-ra-tory" 
+Properly: Pronounced as "Prop-er-ly" 
+## Chunking Report
 Bucket: **Emergent**
+
 Chunking Mistakes and Corrections
 
-1. "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role."
-    * Correct: "A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role."
-2. "Its features include speed, internet access, computer connectivity, icons, etcetera. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features." 
-    * Correct: "Its features include speed, internet access, computer connectivity, icons, etcetera. Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features."
-3. "Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones."
-    * Correct: "Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones."
-4. "A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etcetera."
-    * Correct: "A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etcetera."
-5. "It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected."
-    * Correct: "It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected."
-6. "Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel-related events as well as the ability to take tests and attend classes."
-    * Correct: "Some of the benefits of a smartphone include simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel-related events as well as the ability to take tests and attend classes."
-7. "However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction, and misuse."
-    * Correct: "However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction, and misuse."
-8. "Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes."
-    * Correct: "Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes."
-9. "Any benefit might become a liability if not used properly."
-    * Correct: "Any benefit might become a liability if not used properly."
+1. **Incorrect:** A smartphone is a gadget that uh combines the essential functions of a phone that has a interjected computer system with a mobile mobility playing a key role.
+    **Correct:** A smartphone is a gadget that combines the essential functions of a phone that has an integrated computer system with mobility playing a key role.
+2. **Incorrect:**  It's a features includes speed internet access, computer constructive, icons etcetera. 
+    **Correct:** It's features include speed, internet access, computer connectivity, icons, etcetera.
+3. **Incorrect:** Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features. Smartphones leave faster connectivity than other phone models.
+    **Correct:** Smartphones are widely used and can be purchased at a variety of rates depending on the brands and features. Smartphones have faster connectivity than other phone models.
+4. **Incorrect:** The process is not hampered by the distance of the different time zone.
+    **Correct:** The process is not hampered by the distance or the different time zones. 
+5. **Incorrect:** A smartphone differs from regular phones because of its special capability which include new icon games, calls, chat, video video calls, cameras, touch service, emailing, storage, etcetera. 
+    **Correct:** A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etcetera.
+6. **Incorrect:** It includes a joystick wireless earbuds and a host of other attachments that enhances the smartphone experience. 
+    **Correct:** It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience.
+7. **Incorrect:** It is a revolution for the world that would keep everyone connected. Some of the benefits of a smartphone includes simple communication, portability, entertainment, the capacity to book hotels, figures, and other travel related events as well as the ability to take tests and attend classes. 
+    **Correct:** It is a revolution for the world that would keep everyone connected. Some of the benefits of a smartphone include simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel related events as well as the ability to take tests and attend classes.
 
-The student made 9 chunking mistakes, which represents a chunking error rate of more than 60% (9/14). Therefore, the student's performance is categorized as **Emergent**. 
+**Total Chunking Mistakes: 7**
+
+**Error Percentage: ~35%**
+
+**Conclusion:** The student exhibits significant chunking errors. Although there is some evidence of understanding the content, the student struggles to break down the text into natural and logical chunks. This suggests the student needs further practice in developing their chunking skills to ensure fluency and comprehension. 
 ## Intonation Report
-Bucket: **Emergent**
+Bucket: **Emergent** 
 
-**Deviations from Expert's Intonation:**
-The student's intonation consistently deviates from the expert's, displaying a lack of clear rising and falling tones throughout the recording. The student primarily uses a monotonous, flat intonation, particularly in longer sentences. 
+The student's intonation deviates significantly from the expert's, particularly in the rising and falling tones. While the student attempts to convey the appropriate meaning, their intonation often lacks the clarity and precision of the expert's rendition.
 
-**Specific Examples and Measurements:**
+**Detailed Deviations:**
 
-* **0:01 - 0:04:** The expert uses a rising tone in "A smartphone is a gadget that combines the essential functions of a phone" followed by a falling tone in "that has an integrated computer system". The student uses a monotonous tone throughout, lacking the emphasis and variation of the expert.
-* **0:10 - 0:15:**  The expert's intonation rises and falls in "Internet access, computer connectivity, icons, etc. Smartphones are widely used...". The student utilizes a flat tone with minimal variation in their delivery.
-* **0:24 - 0:27:** The expert employs a clear rising tone in "The process is not hampered by the distance or the different time zones." The student's delivery maintains a flat tone, missing the emphasis and rhythm of the expert.
-* **0:34 - 0:40:**  The expert uses various rising and falling tones in "which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etc.", highlighting the different functionalities of smartphones. The student delivers the passage with minimal intonation, failing to adequately emphasize the various features.
-* **0:49 - 0:52:** The expert emphasizes "It is a revolution for the world that would keep everyone connected". The student's rendition uses a flat tone, lacking the emphasis and variation evident in the expert's delivery.
+* **00:04:** The student lacks the rise in pitch at the end of "gadget that" compared to the expert's.
+* **00:07:**  The student's intonation in "still functions" is significantly flatter than the expert's, missing the rising and falling tones.
+* **00:11:** The student uses a rising tone at the end of "integrated computer system," while the expert uses a falling tone.
+* **00:15:** The student does not employ a clear rising tone at the end of "playing a key role."
+* **00:18:** The student misses the falling tone in "features include speed," delivering it in a rather flat manner.
+* **00:22:** The student fails to incorporate the rising and falling tones in "Internet access," leading to a monotonous delivery.
+* **00:24:** The student uses a falling tone at the end of "connectivity icons," while the expert uses a rising tone.
+* **00:29:** The student's intonation in "widely used and can be purchased" lacks the clarity and precision of the expert's, missing the key rising and falling tones.
+* **00:34:** The student's intonation in "a variety of rates depending" is flat and lacks the natural rhythm and emphasis found in the expert's delivery.
+* **00:42:** The student's intonation in "brands and features smartphones" is flat, missing the natural rise in tone at the end of each phrase.
+* **00:46:** The student's intonation in "have faster connectivity than other phone models the" lacks the clarity and precision of the expert's rendition. 
+* **00:51:** The student misses the rising tone in "process is not hampered" compared to the expert's delivery.
+* **00:55:** The student fails to capture the falling tone in "distance or the different time zones," leading to a monotonous delivery. 
+* **00:59:** The student's intonation in "a smartphone differs from regular phones because of its" is flat and lacks the natural rhythm and emphasis found in the expert's delivery.
+* **01:04:** The student's intonation in "special capabilities which include new icon games calls" lacks the clarity and precision of the expert's rendition.
+* **01:09:** The student misses the falling tone in "chats video calls cameras touch screens" compared to the expert's delivery.
+* **01:13:** The student's intonation in "emailing storage etcetera" is flat and lacks the natural rhythm and emphasis found in the expert's delivery.
+* **01:18:** The student uses a rising tone at the end of "includes a joystick wireless earbuds," while the expert uses a falling tone.
+* **01:23:** The student's intonation in "and a host of other attachments that enhance the smartphone experience" lacks the clarity and precision of the expert's rendition.
+* **01:27:** The student's intonation in "It is a revolution for the world that would keep everyone connected" is flat and lacks the natural rhythm and emphasis found in the expert's delivery.
+* **01:31:** The student misses the rising tone in "Some of the benefits of a smartphone includes simple communication" compared to the expert's delivery.
+* **01:36:** The student's intonation in "portability entertainment the capacity to book hotels flights" lacks the clarity and precision of the expert's rendition.
+* **01:40:** The student uses a rising tone at the end of "and other travel related events as well as the ability to take tests," while the expert uses a falling tone.
+* **01:45:** The student's intonation in "attend classes however there are some drawbacks as well" lacks the clarity and precision of the expert's rendition.
+* **01:49:** The student's intonation in "such as impaired vision decreased focus increased distraction" lacks the clarity and precision of the expert's rendition.
+* **01:54:** The student's intonation in "addiction and misuse like any other resource" is flat and lacks the natural rhythm and emphasis found in the expert's delivery.
+* **01:59:** The student's intonation in "a smartphone should also be used responsibly to prevent unfavorable outcomes" lacks the clarity and precision of the expert's rendition.
+* **02:03:** The student's intonation in "any benefit might become a liability if not used properly" lacks the clarity and precision of the expert's rendition. 
 
-**Conclusion:** The student's intonation throughout the recording demonstrates significant room for improvement. They need to focus on developing clear rising and falling tones to enhance their delivery and comprehension.  
+**In conclusion**, the student's intonation is **Emergent**, with clear rising and falling tones occurring in less than 60% of instances.  The student needs to focus on developing their ability to use intonation to convey meaning and emphasis in a more natural and precise way. 
 Fluency Report
 Bucket: Emergent
-The student had 9 pauses longer than 1 second per minute of speech.
-00:01 - Student paused for 2 seconds, needs to reduce the pause length. 
-00:03 - Student paused for 1 second, needs to reduce the pause length.
-00:06 - Student paused for 1 second, needs to reduce the pause length.
-00:07 - Student paused for 1 second, needs to reduce the pause length.
-00:09 - Student paused for 2 seconds, needs to reduce the pause length.
-00:10 - Student paused for 2 seconds, needs to reduce the pause length.
-00:11 - Student paused for 2 seconds, needs to reduce the pause length.
-00:14 - Student paused for 2 seconds, needs to reduce the pause length.
-00:16 - Student paused for 2 seconds, needs to reduce the pause length.
-00:18 - Student paused for 1 second, needs to reduce the pause length.
-00:21 - Student paused for 1 second, needs to reduce the pause length.
-00:22 - Student paused for 2 seconds, needs to reduce the pause length.
-00:26 - Student paused for 2 seconds, needs to reduce the pause length.
-00:27 - Student paused for 2 seconds, needs to reduce the pause length.
-00:28 - Student paused for 1 second, needs to reduce the pause length.
-00:32 - Student paused for 1 second, needs to reduce the pause length.
-00:34 - Student paused for 2 seconds, needs to reduce the pause length.
-00:35 - Student paused for 1 second, needs to reduce the pause length.
-00:36 - Student paused for 2 seconds, needs to reduce the pause length.
-00:39 - Student paused for 1 second, needs to reduce the pause length.
-00:41 - Student paused for 1 second, needs to reduce the pause length.
-00:44 - Student paused for 2 seconds, needs to reduce the pause length.
-00:45 - Student paused for 2 seconds, needs to reduce the pause length.
-00:54 - Student paused for 2 seconds, needs to reduce the pause length.
-00:56 - Student paused for 1 second, needs to reduce the pause length.
-01:02 - Student paused for 2 seconds, needs to reduce the pause length.
-01:06 - Student paused for 2 seconds, needs to reduce the pause length.
-01:10 - Student paused for 2 seconds, needs to reduce the pause length.
-01:13 - Student paused for 1 second, needs to reduce the pause length.
-01:15 - Student paused for 1 second, needs to reduce the pause length.
-01:16 - Student paused for 2 seconds, needs to reduce the pause length.
-01:23 - Student paused for 1 second, needs to reduce the pause length.
-01:24 - Student paused for 1 second, needs to reduce the pause length.
-01:25 - Student paused for 2 seconds, needs to reduce the pause length.
-01:26 - Student paused for 1 second, needs to reduce the pause length.
-01:28 - Student paused for 2 seconds, needs to reduce the pause length.
-01:29 - Student paused for 2 seconds, needs to reduce the pause length.
-01:31 - Student paused for 2 seconds, needs to reduce the pause length.
-01:32 - Student paused for 2 seconds, needs to reduce the pause length.
-01:33 - Student paused for 2 seconds, needs to reduce the pause length.
-01:35 - Student paused for 2 seconds, needs to reduce the pause length.
-01:36 - Student paused for 2 seconds, needs to reduce the pause length.
-01:37 - Student paused for 2 seconds, needs to reduce the pause length.
-01:38 - Student paused for 1 second, needs to reduce the pause length.
-01:43 - Student paused for 2 seconds, needs to reduce the pause length.
-01:44 - Student paused for 2 seconds, needs to reduce the pause length.
-01:45 - Student paused for 1 second, needs to reduce the pause length.
-01:46 - Student paused for 2 seconds, needs to reduce the pause length.
-01:50 - Student paused for 2 seconds, needs to reduce the pause length.
-01:52 - Student paused for 2 seconds, needs to reduce the pause length.
-01:53 - Student paused for 1 second, needs to reduce the pause length.
-01:55 - Student paused for 2 seconds, needs to reduce the pause length.
-01:58 - Student paused for 1 second, needs to reduce the pause length.
-01:59 - Student paused for 1 second, needs to reduce the pause length.
-02:01 - Student paused for 1 second, needs to reduce the pause length.
-02:02 - Student paused for 1 second, needs to reduce the pause length.
-02:05 - Student paused for 1 second, needs to reduce the pause length.
-02:08 - Student paused for 1 second, needs to reduce the pause length.
-02:11 - Student paused for 2 seconds, needs to reduce the pause length.
-02:12 - Student paused for 2 seconds, needs to reduce the pause length.
-02:14 - Student paused for 2 seconds, needs to reduce the pause length.
-02:15 - Student paused for 1 second, needs to reduce the pause length.
-02:16 - Student paused for 1 second, needs to reduce the pause length.
-02:20 - Student paused for 2 seconds, needs to reduce the pause length.
-02:21 - Student paused for 2 seconds, needs to reduce the pause length.
-02:22 - Student paused for 1 second, needs to reduce the pause length.
-02:24 - Student paused for 2 seconds, needs to reduce the pause length.
-The student is categorized as "Emergent" because the student's speech contains more than 3 pauses longer than 1 second per minute of speech. The student needs to focus on reducing the pause length throughout the speech. 
+00:03 - Student paused for 1.7 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:05 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:06 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:07 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:10 - Student paused for 1.7 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:11 - Student paused for 1.2 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:12 - Student paused for 1.4 seconds, expert paused for 0.7 seconds. Suggestion: Reduce the length of the pause.
+00:14 - Student paused for 1.2 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:15 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:16 - Student paused for 1.3 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:18 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:21 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:22 - Student paused for 1.5 seconds, expert paused for 0.7 seconds. Suggestion: Reduce the length of the pause.
+00:23 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:24 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:25 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:28 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:30 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:31 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:33 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:34 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:36 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:40 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:42 - Student paused for 1.6 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:43 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:45 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:48 - Student paused for 1.7 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:49 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:50 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:51 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:53 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:54 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+00:55 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:57 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+00:58 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+00:59 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:00 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:01 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:02 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:04 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:06 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:07 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:08 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:09 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:10 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:11 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:12 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:13 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:15 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:16 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:17 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:18 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:19 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:21 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:22 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:23 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:24 - Student paused for 1.7 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:25 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:26 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:27 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:29 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:30 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:32 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:33 - Student paused for 1.3 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:34 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:35 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:36 - Student paused for 1.6 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:38 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:39 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:40 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:41 - Student paused for 1.3 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:43 - Student paused for 1.6 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:44 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:45 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:46 - Student paused for 1.4 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:48 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:49 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:50 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:51 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:52 - Student paused for 1.3 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:53 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:54 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+01:55 - Student paused for 1.6 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+01:56 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:57 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:58 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+01:59 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:00 - Student paused for 1.7 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:01 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:02 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:03 - Student paused for 1.5 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:04 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:05 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:06 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:07 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:08 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:09 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:10 - Student paused for 1.6 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:11 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:12 - Student paused for 1.3 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:13 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:14 - Student paused for 1.5 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:15 - Student paused for 1.3 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:17 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:18 - Student paused for 1.5 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:20 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:21 - Student paused for 1.4 seconds, expert paused for 0.6 seconds. Suggestion: Reduce the length of the pause.
+02:22 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+02:23 - Student paused for 1.6 seconds, expert paused for 0.4 seconds. Suggestion: Reduce the length of the pause.
+02:24 - Student paused for 1.4 seconds, expert paused for 0.5 seconds. Suggestion: Reduce the length of the pause.
+
+The student's performance is **Emergent**.  The student took pauses longer than one second over 35 times in the 2-minute recording, far exceeding the 3-pause limit for the Emergent category. 
 Reading Speed Report
-Bucket: Emergent
-The student reads at a significantly slower pace than the expert. The student takes an average of 1.3 seconds per word, while the expert reads at an average of 0.9 seconds per word. 
-This discrepancy can be observed in several instances, for example:
-- The expert reads "smartphone is a gadget that combines the essential functions of a phone" in 3.3 seconds, while the student takes 5.3 seconds.
-- The expert reads "Smartphones have faster connectivity than other phone models" in 4.8 seconds, while the student takes 7.7 seconds.
-- The expert reads "which include new icon games, calls, chats, video calls" in 4.4 seconds, while the student takes 6.4 seconds.
-Overall, the student struggles to maintain a steady reading pace and frequently pauses or slows down, resulting in a noticeably slower reading speed compared to the expert. 
+Bucket: **Emergent**
+
+The student's reading speed is significantly slower than the expert's. The expert reads at an average pace of approximately 150 words per minute, while the student reads at an average pace of approximately 100 words per minute. 
+
+The student's reading speed is noticeably slower throughout the entire recording. They often pause for extended periods, especially at the beginning and end of sentences. This results in a significant deviation from the expert's reading pace. 

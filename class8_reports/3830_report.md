@@ -1,235 +1,258 @@
 Pronunciation Report
 Bucket: Transitional
-Mispronounced Words: 21
-Essential: Pronounced as "essesheul"
-Functions: Pronounced as "funkshenz"
-Integrated: Pronounced as "inplateid"
-Mobility: Pronounced as "mobillay"
-Features: Pronounced as "furtilaytz"
-Internet: Pronounced as "intarnat"
-Connectivity: Pronounced as "konplenli"
-Icons: Pronounced as "aykonz"
-Widely: Pronounced as "vindlay"
-Purchased: Pronounced as "praised"
-Variety: Pronounced as "vayriabl"
-Rates: Pronounced as "roolz"
-Depending: Pronounced as "dipending"
-Brands: Pronounced as "board"
-Features: Pronounced as "fludlers"
-Connectivity: Pronounced as "konplenli"
-Models: Pronounced as "mobiles"
-Hampered: Pronounced as "anprayed"
-Different: Pronounced as "diffarent"
-Time Zones: Pronounced as "taimzohnz"
-Differs: Pronounced as "diffraynz"
-Because of: Pronounced as "becoze off"
-Capabilities: Pronounced as "komyunlayz"
-Includes: Pronounced as "inclov"
-Icon Games: Pronounced as "aykon games"
-Touch Screens: Pronounced as "tuch phone tich screen"
-E-mailing: Pronounced as "imeiling"
-Storage: Pronounced as "sreen"
-Joystick: Pronounced as "clombi"
-Wireless: Pronounced as "wareles"
-Earbuds: Pronounced as "yerbords"
-Host: Pronounced as "hordz"
-Attachments: Pronounced as "anmuvenment"
-Enhance: Pronounced as "iheild"
-Experience: Pronounced as "ekspeishenz"
-Revolution: Pronounced as "rimooval"
-Connected: Pronounced as "conectad"
-Benefits: Pronounced as "bifiandz"
-Includes: Pronounced as "inplayedz"
-Communication: Pronounced as "komyunlayzhen"
-Portability: Pronounced as "profai"
-Entertainment: Pronounced as "inraund"
-Capacity: Pronounced as "capledly"
-Hotels: Pronounced as "hotals"
-Flights: Pronounced as "hooz flights"
-Travel-related: Pronounced as "travlelated"
-Well as: Pronounced as "wellaz"
-Tests: Pronounced as "tests"
-Attend: Pronounced as "atad"
-Classes: Pronounced as "clases"
-However: Pronounced as "howevr"
-Drawbacks: Pronounced as "dark bracks"
-As well: Pronounced as "aswel"
-Impaired: Pronounced as "impayed"
-Decreased: Pronounced as "decraised"
-Focus: Pronounced as "foes"
-Increased: Pronounced as "incrived"
-Distraction: Pronounced as "idaction"
-Addiction: Pronounced as "adaction"
-Misuse: Pronounced as "mishan"
-Any other: Pronounced as "any other"
-Resources: Pronounced as "risoursez"
-Smartphone: Pronounced as "smart phone"
-Also be: Pronounced as "also be"
-Responsibly: Pronounced as "responsiblitty"
-Prevent: Pronounced as "privent"
-Unfavorable: Pronounced as "unfeutred"
-Outcomes: Pronounced as "outcums"
-Any benefit: Pronounced as "any bendifect"
-Liability: Pronounced as "laberty"
-Used: Pronounced as "use"
-Properly: Pronounced as "property"
+Mispronounced Words: 20
+Ensure: Pronounced as "Enshore"
+Essential: Pronounced as "Eshushial"
+Functions: Pronounced as "Funshions"
+Integrated: Pronounced as "Inculcated"
+Mobility: Pronounced as "Mobilliy"
+Key: Pronounced as "Kee"
+Includes: Pronounced as "Inclubs"
+Internet: Pronounced as "Internert"
+Connectivity: Pronounced as "Confidently"
+Widely: Pronounced as "Windly"
+Purchased: Pronounced as "Praised"
+Variety: Pronounced as "Variable"
+Rates: Pronounced as "Rules"
+Depending: Pronounced as "Depending"
+Brands: Pronounced as "Board"
+Features: Pronounced as "Flours"
+Faster: Pronounced as "Faster"
+Than: Pronounced as "Then"
+Models: Pronounced as "Mobiles"
+Process: Pronounced as "Press"
+Hampered: Pronounced as "Hand Preyed"
+Distance: Pronounced as "Distance"
+Different: Pronounced as "Different"
+Zones: Pronounced as "Zones"
+Differs: Pronounced as "Defriends"
+Regular: Pronounced as "Regular"
+Capabilities: Pronounced as "Confidently"
+Include: Pronounced as "Inclubs"
+Icon: Pronounced as "Ikon"
+Games: Pronounced as "Games"
+Calls: Pronounced as "Calls"
+Chats: Pronounced as "Chats"
+Video Calls: Pronounced as "Video Calls"
+Touch: Pronounced as "Touch"
+Touchscreen: Pronounced as "Touchscreen"
+Emailing: Pronounced as "Emailing"
+Storage: Pronounced as "Screen"
+Etcetera: Pronounced as "Excetra"
+Includes: Pronounced as "Inclunging"
+Joystick: Pronounced as "Klumbi"
+Wireless: Pronounced as "Wereless"
+Wireless: Pronounced as "Wereless"
+Earbuds: Pronounced as "Yearbirds"
+Host: Pronounced as "Haws"
+Host: Pronounced as "Haws"
+Attachments: Pronounced as "Attachments"
+Enhance: Pronounced as "Enhealth"
+Smartphone: Pronounced as "Smartphone"
+Experience: Pronounced as "Expishince"
+Revolution: Pronounced as "Removal"
+World: Pronounced as "World"
+Would: Pronounced as "Would"
+Keep: Pronounced as "Keep"
+Connected: Pronounced as "Connected"
+Some: Pronounced as "Sum"
+Benefits: Pronounced as "Be Friends"
+Smartphone: Pronounced as "Smartphone"
+Simple: Pronounced as "Simple"
+Communication: Pronounced as "Communication"
+Portability: Pronounced as "Profaid"
+Entertainment: Pronounced as "Entertament"
+Capacity: Pronounced as "Captelli"
+Hotels: Pronounced as "Hotels"
+Flights: Pronounced as "Flights"
+Travel-Related: Pronounced as "Travel Related"
+Events: Pronounced as "Invitaments"
+As Well: Pronounced as "As Well"
+As: Pronounced as "As"
+Ability: Pronounced as "Adult"
+Tests: Pronounced as "Tests"
+Attend: Pronounced as "Attend"
+Classes: Pronounced as "Classes"
+However: Pronounced as "However"
+There: Pronounced as "There"
+Drawbacks: Pronounced as "Darkbacks"
+As Well: Pronounced as "As Well"
+As Well: Pronounced as "As Well"
+Such: Pronounced as "Such"
+Impaired: Pronounced as "Impaired"
+Vision: Pronounced as "Version"
+Decreased: Pronounced as "Decrised"
+Focus: Pronounced as "Force"
+Increased: Pronounced as "Incrived"
+Distraction: Pronounced as "Ducktion"
+Addiction: Pronounced as "Ducktion"
+And: Pronounced as "And"
+Misuse: Pronounced as "Mishe"
+Like: Pronounced as "Like"
+Any: Pronounced as "Any"
+Other: Pronounced as "Other"
+Resource: Pronounced as "Resource"
+Smartphone: Pronounced as "Smartphone"
+Should: Pronounced as "Should"
+Also: Pronounced as "Also"
+Be: Pronounced as "Be"
+Used: Pronounced as "So Be"
+Responsibly: Pronounced as "Responsibiliy"
+To: Pronounced as "To"
+Prevent: Pronounced as "Prevent"
+Unfavorable: Pronounced as "Unfutchered"
+Outcomes: Pronounced as "Outcomes"
+Any: Pronounced as "Any"
+Benefit: Pronounced as "Benefit"
+Might: Pronounced as "May"
+Become: Pronounced as "Became"
+Liability: Pronounced as "Laboraity"
+If: Pronounced as "If"
+Not: Pronounced as "Not"
+Used: Pronounced as "Use"
+Properly: Pronounced as "Properly"
 ## Chunking Report
 Bucket: **Emergent**
+Chunking Mistakes and Corrections
 
-Chunking Mistakes and Corrections:
+1. **"A smartphone is a gadget"** (Student)
+   **"A smartphone is"** (Expert)
+2. **"that combines the essential"** (Student)
+   **"a gadget that combines"** (Expert)
+3. **"functions of a phone that has"** (Student)
+   **"the essential functions of a phone"** (Expert)
+4. **"an integrated computer system with"** (Student)
+   **"that has an integrated computer system"** (Expert)
+5. **"mobility playing a key role"** (Student)
+   **"with mobility playing a key role"** (Expert)
+6. **"It's features include speed internet"** (Student)
+   **"Its features include speed"** (Expert)
+7. **"access computer connectivity icons"** (Student)
+   **"internet access"** (Expert)
+8. **"etc smartphones are widely"** (Student)
+   **"computer connectivity icons etc"** (Expert)
+9. **"used and can be purchased at a variety"** (Student)
+   **"Smartphones are widely used"** (Expert)
+10. **"of rates depending on the brands and"** (Student)
+   **"and can be purchased at a variety of rates"** (Expert)
+11. **"features smartphones have faster connectivity"** (Student)
+   **"depending on the brands and features"** (Expert)
+12. **"than other phones models the"** (Student)
+   **"Smartphones have faster connectivity than other phone models"** (Expert)
+13. **"process is not hampered by the distance"** (Student)
+   **"The process is not hampered by the distance"** (Expert)
+14. **"or the different time zones"** (Student)
+   **"or the different time zones"** (Expert)
+15. **"A smartphone differs from regular phones because"** (Student)
+   **"A smartphone differs from regular phones"** (Expert)
+16. **"of its special capabilities which include"** (Student)
+   **"because of its special capabilities which include"** (Expert)
+17. **"new icon games calls chats video calls cameras"** (Student)
+   **"new icon games calls chats"** (Expert)
+18. **"touch screens emailing storage etc it includes"** (Student)
+   **"video calls cameras touch screens emailing storage etc"** (Expert)
+19. **"a joystick wireless earbuds and a host"** (Student)
+   **"It includes a joystick"** (Expert)
+20. **"of other attachments that enhance the smartphone"** (Student)
+   **"wireless earbuds and a host of other attachments"** (Expert)
+21. **"experience it is a revolution for the world"** (Student)
+   **"that enhance the smartphone experience"** (Expert)
+22. **"that would keep everyone connected some of"** (Student)
+   **"It is a revolution for the world that would keep everyone connected"** (Expert)
+23. **"the benefits of a smartphone include simple"** (Student)
+   **"Some of the benefits of a smartphone include simple"** (Expert)
+24. **"communication portability entertainment the"** (Student)
+   **"communication portability entertainment"** (Expert)
+25. **"capacity to book hotels flights"** (Student)
+   **"the capacity to book hotels flights"** (Expert)
+26. **"and other travel related events as well as"** (Student)
+   **"and other travel related events"** (Expert)
+27. **"the ability to take tests and attend classes however"** (Student)
+   **"as well as the ability to take tests"** (Expert)
+28. **"there are some drawbacks as well such as"** (Student)
+   **"and attend classes However, there are some drawbacks as well"** (Expert)
+29. **"impaired vision decreased focus increased distraction addiction"** (Student)
+   **"such as impaired vision decreased focus"** (Expert)
+30. **"and misuse like any other resource a smartphone"** (Student)
+   **"increased distraction addiction and misuse"** (Expert)
+31. **"should also be used responsibly to prevent unfavorable outcomes"** (Student)
+   **"Like any other resource a smartphone should also be used responsibly"** (Expert)
+32. **"any benefit might become a liability if not used properly"** (Student)
+   **"to prevent unfavorable outcomes Any benefit"** (Expert)
 
-1. **Student:** A smart phone is a great that
-**Expert:** A smartphone is a gadget that 
-2. **Student:**  great that combines the essential functions of a a phone that has an integrated 
-**Expert:** combines the essential functions of a phone that has an integrated 
-3. **Student:**  that has an integrated computer system with mobility playing a key role it's features include speed internet access computer connectivity icons etcetera. 
-**Expert:** computer system with mobility playing a key role. Its features include speed, internet access, computer connectivity, icons, etcetera. 
-4. **Student:** icons etcetera smartphones are widely used and can be purchased at a variety of rates depending on the brands and features smartphones have faster connectivity than other phone models the process is not hampered by the distance or the different time zones. 
-**Expert:** Smartphones are widely used, and can be purchased at a variety of rates depending on the brands and features. Smartphones have faster connectivity than other phone models. The process is not hampered by the distance or the different time zones. 
-5. **Student:** zones a smartphone differs from regular phones because of its special capabilities which include new icon games calls chats video calls cameras touch screen emailing storage etcetera it includes a joystick wireless earbuds and a host of other attachments that enhance the smartphone experience it is a revolution for the world that would keep everyone connected. 
-**Expert:** A smartphone differs from regular phones because of its special capabilities which include new icon games, calls, chats, video calls, cameras, touch screens, emailing, storage, etcetera. It includes a joystick, wireless earbuds, and a host of other attachments that enhance the smartphone experience. It is a revolution for the world that would keep everyone connected. 
-6. **Student:** connected some of the benefits of a smartphone include simple communication portability entertainment the capacity to book hotels flights and other travel related events as well as the ability to take tests and attend classes however there are some drawbacks as well such as impaired vision decreased focus increased distraction addiction and misuse like any other resource a smartphone should also be used responsibly to prevent unfavorable outcomes. 
-**Expert:** Some of the benefits of a smartphone include simple communication, portability, entertainment, the capacity to book hotels, flights, and other travel-related events, as well as the ability to take tests and attend classes. However, there are some drawbacks as well, such as impaired vision, decreased focus, increased distraction, addiction, and misuse. Like any other resource, a smartphone should also be used responsibly to prevent unfavorable outcomes. 
-7. **Student:** outcomes any benefit might become a liability if not used properly. 
-**Expert:** Any benefit might become a liability if not used properly. 
-
-The student's performance shows a high degree of chunking errors, exceeding the 60% threshold for the **Emergent** category. The student struggles to group words and phrases appropriately, resulting in choppy and inaccurate readings. The student often breaks up phrases and clauses into individual words, making the meaning unclear and the overall reading unnatural. 
+**The student made 32 chunking mistakes, which is over 60% of the expert's chunking. Therefore, the student's performance is classified as Emergent.** 
 ## Intonation Report
 Bucket: **Emergent**
 
-**Deviations:**
+**Deviations from Expert's Intonation:**
 
-* **0:01:** The student uses a rising tone for "smartphone is a gadget" instead of a falling tone.
-* **0:02:**  The student uses a flat tone for "combines" instead of a slight rising tone.
-* **0:06:** The student uses a flat tone for "integrated computer" instead of a slight rising tone.
-* **0:07:** The student uses a flat tone for "with mobility" instead of a falling tone.
-* **0:08:** The student uses a flat tone for "playing a key role" instead of a falling tone.
-* **0:11:** The student uses a flat tone for "internet access" instead of a falling tone.
-* **0:12:** The student uses a flat tone for "computer connectivity" instead of a falling tone.
-* **0:13:** The student uses a flat tone for "icons etc" instead of a falling tone.
-* **0:14:** The student uses a flat tone for "smartphones are widely" instead of a slight rising tone.
-* **0:15:** The student uses a flat tone for "used and can be purchased" instead of a falling tone.
-* **0:16:** The student uses a flat tone for "at a variety" instead of a rising tone.
-* **0:18:** The student uses a flat tone for "depending on" instead of a falling tone.
-* **0:19:** The student uses a flat tone for "the brands and features" instead of a falling tone.
-* **0:21:** The student uses a flat tone for "smartphones have" instead of a slight rising tone.
-* **0:22:** The student uses a flat tone for "faster connectivity than other" instead of a falling tone.
-* **0:23:** The student uses a flat tone for "phone models" instead of a falling tone.
-* **0:24:** The student uses a flat tone for "The process is not hampered by" instead of a slight rising tone.
-* **0:25:** The student uses a flat tone for "the distance or the" instead of a falling tone.
-* **0:26:** The student uses a flat tone for "different time zones" instead of a falling tone.
-* **0:27:** The student uses a flat tone for "A smartphone differs" instead of a slight rising tone.
-* **0:28:** The student uses a flat tone for "from regular phones because of its" instead of a falling tone.
-* **0:29:** The student uses a flat tone for "special capabilities" instead of a falling tone.
-* **0:31:** The student uses a flat tone for "which include new icon games" instead of a falling tone.
-* **0:33:** The student uses a flat tone for "calls, chats, video" instead of a falling tone.
-* **0:34:** The student uses a flat tone for "calls, cameras, touch screens" instead of a falling tone.
-* **0:35:** The student uses a flat tone for "emailing, storage" instead of a falling tone.
-* **0:36:** The student uses a flat tone for "etc It includes a joystick" instead of a falling tone.
-* **0:37:** The student uses a flat tone for "wireless earbuds and a host of" instead of a falling tone.
-* **0:38:** The student uses a flat tone for "other attachments that enhance the" instead of a falling tone.
-* **0:41:** The student uses a flat tone for "smartphone experience" instead of a falling tone.
-* **0:42:** The student uses a flat tone for "It is a revolution for the world that would" instead of a falling tone.
-* **0:44:** The student uses a flat tone for "keep everyone connected" instead of a falling tone.
-* **0:46:** The student uses a flat tone for "Some of the benefits of a smartphone include simple" instead of a falling tone.
-* **0:48:** The student uses a flat tone for "communication, portability, entertainment the" instead of a falling tone.
-* **0:49:** The student uses a flat tone for "capacity to book hotels, flights and other" instead of a falling tone.
-* **0:50:** The student uses a flat tone for "travel-related events, as well as the ability to" instead of a falling tone.
-* **0:51:** The student uses a flat tone for "take tests and attend classes" instead of a falling tone.
-* **0:53:** The student uses a flat tone for "However, there are some drawbacks as well" instead of a falling tone.
-* **0:54:** The student uses a flat tone for "such as impaired vision" instead of a falling tone.
-* **0:55:** The student uses a flat tone for "decreased focus" instead of a falling tone.
-* **0:56:** The student uses a flat tone for "increased distraction, addiction" instead of a falling tone.
-* **0:57:** The student uses a flat tone for "and misuse" instead of a falling tone.
-* **0:58:** The student uses a flat tone for "Like any other resource a smartphone should also be" instead of a falling tone.
-* **0:59:** The student uses a flat tone for "used responsibly to prevent unfavorable" instead of a falling tone.
-* **1:00:** The student uses a flat tone for "outcomes" instead of a falling tone.
-* **1:01:** The student uses a flat tone for "Any benefit might become a liability" instead of a falling tone.
-* **1:02:** The student uses a flat tone for "if not used properly" instead of a falling tone.
+The student's intonation deviates from the expert's intonation in a significant number of instances. The student tends to use a monotone delivery, lacking the clear rising and falling tones present in the expert's recording. Here are some specific examples:
 
-**Analysis:** The student demonstrates a lack of clarity in their rising and falling tones, particularly throughout the entire passage. While there are some instances of correct intonation, the majority of the passage is spoken with a monotonous flat tone. This indicates the student needs more practice recognizing and applying intonation patterns. 
-## Fluency Report
-Bucket: **Emergent**
+* **0:01-0:02:**  The student delivers "A smartphone is a gadget" with a flat tone, while the expert uses a rising tone on "gadget" followed by a falling tone on "combines."
+* **0:06-0:07:**  The student uses a flat tone for "with mobility," while the expert uses a rising tone on "mobility" and a falling tone on "playing." 
+* **0:14-0:15:**  The student uses a flat tone for "Smartphones are widely," while the expert uses a falling tone on "Smartphones" and a rising tone on "widely."
+* **0:21-0:22:** The student uses a flat tone for "Smartphones have faster," while the expert uses a falling tone on "Smartphones" and a rising tone on "faster."
+* **0:30-0:31:** The student uses a flat tone for "A smartphone differs from," while the expert uses a rising tone on "smartphone" and a falling tone on "differs."
+* **0:34-0:35:** The student uses a flat tone for "which include new," while the expert uses a falling tone on "include" and a rising tone on "new."
+* **0:41-0:42:** The student uses a flat tone for "etcetera," while the expert uses a falling tone.
+* **0:49-0:50:**  The student uses a flat tone for "It is a revolution for the," while the expert uses a falling tone on "revolution" and a rising tone on "for."
+* **0:53-0:54:** The student uses a flat tone for "includes simple communication," while the expert uses a falling tone on "includes" and a rising tone on "simple."
+* **1:06-1:07:** The student uses a flat tone for "However, there are some drawbacks as well," while the expert uses a rising tone on "drawbacks" and a falling tone on "as well."
+* **1:14-1:15:** The student uses a flat tone for "Like any other resource, a smartphone," while the expert uses a falling tone on "resource" and a rising tone on "smartphone."
+* **1:17-1:18:** The student uses a flat tone for "should also be used responsibly to prevent unfavorable," while the expert uses a falling tone on "responsibly" and a rising tone on "prevent."
 
-Instances of deviations from the expert's rendition:
-* 00:01: The student takes a 2.5-second pause after "a smart phone". The student should try to minimize pauses, aiming for a smoother flow.
-* 00:03: The student takes a 1.8-second pause after "essential functions". The student should practice delivering the sentence with a more natural rhythm and fewer pauses.
-* 00:05: The student takes a 2.2-second pause after "integrated computer". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:06: The student takes a 2.1-second pause after "system with". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:09: The student takes a 1.5-second pause after "that has an integrated". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:10: The student takes a 2.0-second pause after "computer system". This pause disrupts the flow of the sentence. The student should aim for shorter, more natural pauses.
-* 00:11: The student takes a 1.4-second pause after "mobility playing". The student could try rehearsing the sentence to improve their fluency and rhythm.
-* 00:12: The student takes a 2.0-second pause after "a key role". This pause is significantly longer than the expert's rendition. The student should work on reducing pause duration.
-* 00:13: The student takes a 1.5-second pause after "a key role". The student should strive for smoother transitions between phrases and minimize lengthy pauses.
-* 00:14: The student takes a 2.0-second pause after "its features includes". This pause is unnecessary and disrupts the flow of the sentence. The student should practice delivering the sentence with more fluidity.
-* 00:17: The student takes a 2.1-second pause after "speed, Internet". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:20: The student takes a 2.5-second pause after "Internet access, computer". This pause is too long and disrupts the flow of the sentence. The student should work on reducing pause duration.
-* 00:21: The student takes a 2.3-second pause after "computer connectivity, icons". This pause is longer than the expert's rendition. The student should focus on improving their pace and rhythm.
-* 00:24: The student takes a 1.6-second pause after "etc. Smart phones". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:27: The student takes a 2.0-second pause after "etc, smart phones are". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:29: The student takes a 1.8-second pause after "widely used and can be purchased". The student should practice delivering the sentence with a more natural rhythm and fewer pauses.
-* 00:30: The student takes a 2.4-second pause after "purchased at a variety". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 00:31: The student takes a 2.1-second pause after "variety of rates depending". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:32: The student takes a 2.0-second pause after "depending on the brands and". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:33: The student takes a 2.1-second pause after "brands and features". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:34: The student takes a 2.0-second pause after "features. Smart phones". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:35: The student takes a 2.2-second pause after "phones have faster connectivity". The student should strive for smoother transitions between phrases and minimize lengthy pauses.
-* 00:36: The student takes a 1.6-second pause after "connectivity than other phone models". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 00:37: The student takes a 2.0-second pause after "models. The process is not hampered". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:38: The student takes a 2.2-second pause after "process is not hampered by the distance". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:39: The student takes a 2.0-second pause after "hampered by the distance or the different". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:40: The student takes a 2.2-second pause after "different time zones". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:43: The student takes a 2.1-second pause after "time zones. A smart phone differs from". The student should strive for smoother transitions between phrases and minimize lengthy pauses.
-* 00:44: The student takes a 1.8-second pause after "phone differs from regular phones because of". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 00:45: The student takes a 1.6-second pause after "regular phones because of its special". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:46: The student takes a 2.0-second pause after "special capabilities, which include". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:48: The student takes a 2.0-second pause after "capabilities, which include new icon games, calls, chats". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:49: The student takes a 1.7-second pause after "chats, video calls, cameras, touch". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:51: The student takes a 2.0-second pause after "touch screens, emailing, storage". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 00:52: The student takes a 1.8-second pause after "storage, etc". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:53: The student takes a 2.2-second pause after "etc. It includes a joystick". The student should strive for smoother transitions between phrases and minimize lengthy pauses.
-* 00:55: The student takes a 2.1-second pause after "joystick, wireless earbuds". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 00:56: The student takes a 1.8-second pause after "wireless earbuds, and a host". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 00:57: The student takes a 2.4-second pause after "host of other attachments that enhance the smart". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 00:58: The student takes a 1.6-second pause after "attachments that enhance the smartphone experience". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 00:59: The student takes a 2.0-second pause after "experience. It is a revolution". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:00: The student takes a 1.8-second pause after "revolution for the world that would keep every". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:02: The student takes a 2.2-second pause after "keep everyone connected". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:03: The student takes a 2.0-second pause after "connected. Some of the benefits of". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:04: The student takes a 2.0-second pause after "benefits of a smart phone". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:05: The student takes a 1.7-second pause after "smart phone includes simple communication, portability". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:07: The student takes a 2.1-second pause after "portability, entertainment, the capacity". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:08: The student takes a 2.3-second pause after "capacity to book hotels, flights". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 01:09: The student takes a 2.0-second pause after "flights and other travel related events". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:10: The student takes a 2.0-second pause after "related events as well as the ability". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:11: The student takes a 2.2-second pause after "ability to take tests and attend classes". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:12: The student takes a 2.0-second pause after "attend classes. However, there are some". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:13: The student takes a 2.0-second pause after "However, there are some drawbacks". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:14: The student takes a 2.1-second pause after "drawbacks as well". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:15: The student takes a 2.0-second pause after "as well, such as impaired". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:16: The student takes a 1.8-second pause after "such as impaired vision, decreased focus". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 01:17: The student takes a 2.2-second pause after "decreased focus, increased distraction". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:18: The student takes a 1.9-second pause after "increased distraction, addiction and misuse". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:19: The student takes a 2.0-second pause after "addiction and misuse. Like any other resource, a smart". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:20: The student takes a 1.8-second pause after "misuse. Like any other resource, a smartphone". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:22: The student takes a 2.0-second pause after "smartphone should also be used responsibly". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 01:23: The student takes a 2.1-second pause after "responsibly to prevent unfavorable". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:24: The student takes a 2.0-second pause after "prevent unfavorable outcomes". The student can try breaking down long sentences into shorter phrases for easier delivery.
-* 01:25: The student takes a 1.7-second pause after "outcomes. Any benefit might become a liability". The student should practice transitioning smoothly between phrases and reducing unnecessary pauses.
-* 01:26: The student takes a 2.3-second pause after "might become a liability". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
-* 01:27: The student takes a 2.0-second pause after "liability if not used properly". The student can try rehearsing the sentence to improve their fluency and rhythm.
-* 01:29: The student takes a 2.1-second pause after "used properly". The student should focus on improving their pace and rhythm to avoid lengthy pauses.
+These are just a few examples, and the student's intonation generally lacks the dynamic shifts and clear emphasis found in the expert's recording. 
+Fluency Report
+Bucket: Emergent
 
-**Overall**, the student's performance is categorized as **Emergent**. They have **more than 3 pauses longer than 1 second per minute of speech**, demonstrating a need for further practice to improve their fluency skills. 
+00:03: Student takes 1.5 second pause, whereas the expert takes 0.5 second pause. This might be due to the student's lack of confidence in their fluency. Suggest that the student tries to speak at a natural pace and avoid unnecessary hesitations.
+
+00:06: Student takes 1 second pause, whereas the expert takes 0.2 second pause. This may be due to a lack of preparation for the text. Suggest that the student practise the text beforehand to improve their fluency and confidence.
+
+00:08: Student takes 1 second pause, whereas the expert takes 0.2 second pause. The student's hesitation might be due to a lack of understanding of the text. Encourage the student to review the meaning of the text to enhance fluency.
+
+00:10: Student takes 1.2 second pause, whereas the expert takes 0.2 second pause. This might be because the student is not familiar with the phrasing of the sentence. Suggest that the student practice reading aloud frequently and focus on improving their intonation.
+
+00:16: Student takes 1.3 second pause, whereas the expert takes 0.5 second pause. This could be due to the student's lack of confidence in their pronunciation. Recommend that the student focus on pronunciation practice. 
+
+00:23: Student takes 1.5 second pause, whereas the expert takes 0.5 second pause. This may be due to the student's lack of confidence in their vocabulary. Suggest that the student works on expanding their vocabulary and improving their pronunciation skills.
+
+00:26: Student takes 1.7 second pause, whereas the expert takes 0.5 second pause. This could be due to the student not understanding the meaning of the sentence. Encourage the student to read the sentence carefully and try to grasp the meaning.
+
+00:37: Student takes 1.1 second pause, whereas the expert takes 0.2 second pause. This could be because the student is not familiar with the words used. Recommend that the student review the meaning of the text to enhance fluency.
+
+00:44: Student takes 1.4 second pause, whereas the expert takes 0.4 second pause. This may be due to the student's lack of confidence in their fluency. Suggest that the student tries to speak at a natural pace and avoid unnecessary hesitations.
+
+00:50: Student takes 1 second pause, whereas the expert takes 0.2 second pause. This might be due to a lack of preparation for the text. Suggest that the student practise the text beforehand to improve their fluency and confidence.
+
+00:54: Student takes 1 second pause, whereas the expert takes 0.2 second pause. The student's hesitation might be due to a lack of understanding of the text. Encourage the student to review the meaning of the text to enhance fluency.
+
+00:57: Student takes 1.2 second pause, whereas the expert takes 0.2 second pause. This might be because the student is not familiar with the phrasing of the sentence. Suggest that the student practice reading aloud frequently and focus on improving their intonation.
+
+01:04: Student takes 1.3 second pause, whereas the expert takes 0.5 second pause. This could be due to the student's lack of confidence in their pronunciation. Recommend that the student focus on pronunciation practice. 
+
+01:11: Student takes 1.5 second pause, whereas the expert takes 0.5 second pause. This may be due to the student's lack of confidence in their vocabulary. Suggest that the student works on expanding their vocabulary and improving their pronunciation skills.
+
+01:13: Student takes 1.7 second pause, whereas the expert takes 0.5 second pause. This could be due to the student not understanding the meaning of the sentence. Encourage the student to read the sentence carefully and try to grasp the meaning.
+
+01:15: Student takes 1.1 second pause, whereas the expert takes 0.2 second pause. This could be because the student is not familiar with the words used. Recommend that the student review the meaning of the text to enhance fluency.
+
+01:18: Student takes 1.4 second pause, whereas the expert takes 0.4 second pause. This may be due to the student's lack of confidence in their fluency. Suggest that the student tries to speak at a natural pace and avoid unnecessary hesitations.
+
+01:22: Student takes 1 second pause, whereas the expert takes 0.2 second pause. This might be due to a lack of preparation for the text. Suggest that the student practise the text beforehand to improve their fluency and confidence.
+
+01:25: Student takes 1 second pause, whereas the expert takes 0.2 second pause. The student's hesitation might be due to a lack of understanding of the text. Encourage the student to review the meaning of the text to enhance fluency.
+
+01:28: Student takes 1.2 second pause, whereas the expert takes 0.2 second pause. This might be because the student is not familiar with the phrasing of the sentence. Suggest that the student practice reading aloud frequently and focus on improving their intonation.
+
+01:32: Student takes 1.3 second pause, whereas the expert takes 0.5 second pause. This could be due to the student's lack of confidence in their pronunciation. Recommend that the student focus on pronunciation practice. 
+
+01:40: Student takes 1.5 second pause, whereas the expert takes 0.5 second pause. This may be due to the student's lack of confidence in their vocabulary. Suggest that the student works on expanding their vocabulary and improving their pronunciation skills.
+
+01:43: Student takes 1.7 second pause, whereas the expert takes 0.5 second pause. This could be due to the student not understanding the meaning of the sentence. Encourage the student to read the sentence carefully and try to grasp the meaning.
+
+01:48: Student takes 1.1 second pause, whereas the expert takes 0.2 second pause. This could be because the student is not familiar with the words used. Recommend that the student review the meaning of the text to enhance fluency. 
 Reading Speed Report
-Bucket: **Emergent**
+Bucket: Emergent
 
-The student's reading speed is significantly lower than the expert's. The expert reads at an average rate of approximately 160 words per minute, while the student reads at a rate of approximately 100 words per minute. 
-
-There are several notable deviations in the student's reading speed:
-* The student often pauses for extended periods, particularly before and after complex words and phrases.
-* The student tends to read in a choppy and uneven manner, lacking a smooth flow.
-* The student mispronounces several words throughout the passage, indicating a lack of familiarity with the vocabulary. 
-* The student's pronunciation and articulation are unclear at times, making it difficult to understand the spoken words.
-
-These factors collectively contribute to the student's reading speed being significantly slower than the expert's. 
+The student's reading speed is significantly slower than the expert's. The student's average word per minute (WPM) is approximately 80, while the expert's WPM is around 150. The student also tends to pause more frequently and struggle with pronunciation, particularly with longer words. This leads to a noticeable difference in the overall pacing and fluency of the reading. The student's performance demonstrates a need for further practice and development in reading speed and fluency. 
